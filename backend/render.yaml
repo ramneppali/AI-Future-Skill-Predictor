@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: ai-future-skill-api
+    env: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: .
+    envVars:
+      - key: DATABASE_URL
+        sync: false

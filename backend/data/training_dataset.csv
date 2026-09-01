@@ -1,0 +1,1001 @@
+job_role,department,experience_years,current_skills,skill_proficiency,current_project_area,technology_trend,future_skill
+Data Analyst,Data & Analytics,0,"Data Visualisation, Excel, Power BI, SQL, Statistics",Intermediate,Data Analytics,Medium,Machine Learning
+Software Engineer,Technology,1,"APIs, Java, Python",Intermediate,Cloud Application,High,Prompt Engineering
+UX Designer,Design,4,"Figma, UI Design, User Research",Beginner,UX Design,High,AI-Assisted Design
+Data Analyst,Data & Analytics,6,"Data Visualisation, Power BI, Statistics",Advanced,Business Intelligence,High,Cloud Computing
+Data Analyst,Data & Analytics,8,"Data Visualisation, Power BI, Python, Statistics",Beginner,Data Analytics,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,1,"Cybersecurity, Linux, Python",Intermediate,Risk Management,High,Generative AI
+Business Analyst,Consulting,3,"Communication, Excel, Power BI, Process Mapping, SQL",Beginner,Digital Transformation,High,AI Business Strategy
+Business Analyst,Consulting,12,"Excel, Power BI, SQL",Intermediate,Business Analysis,High,Data Analytics
+Cloud Engineer,Cloud,10,"Docker, Kubernetes, Linux, Python",Beginner,Cloud Migration,Medium,MLOps
+Business Analyst,Consulting,3,"Excel, Process Mapping, Requirements Analysis",Intermediate,Business Analysis,High,AI Business Strategy
+DevOps Engineer,Technology,9,"CI/CD, Cloud Computing, Linux",Intermediate,DevOps,High,AI Cloud
+Business Analyst,Consulting,1,"Communication, Excel, Requirements Analysis, SQL",Advanced,Digital Transformation,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,10,"Cybersecurity, Networking, Python, Risk Analysis, SIEM",Intermediate,Security Operations,High,Zero Trust Security
+Software Engineer,Technology,1,"Git, Java, Python, SQL",Advanced,Application Development,High,Prompt Engineering
+Data Analyst,Data & Analytics,12,"Excel, Power BI, Python, SQL, Statistics",Beginner,Business Intelligence,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,6,"Linux, Networking, Python, Risk Analysis, SIEM",Beginner,Security Operations,High,Generative AI
+Software Engineer,Technology,9,"APIs, Cloud Computing, Java, Python, SQL",Intermediate,Application Development,High,Generative AI
+Software Engineer,Technology,5,"APIs, Java, SQL",Intermediate,Application Development,High,Prompt Engineering
+Cloud Engineer,Cloud,12,"Cloud Computing, Kubernetes, Linux, Python",Intermediate,Cloud Migration,Medium,MLOps
+AI Engineer,Data & AI,11,"APIs, Cloud Computing, Python",Intermediate,Generative AI,High,Large Language Models
+Cloud Engineer,Cloud,3,"Cloud Computing, Docker, Kubernetes, Linux, Python",Intermediate,Cloud Infrastructure,Medium,AI Cloud
+Software Engineer,Technology,10,"APIs, Cloud Computing, Git, Java, Python",Intermediate,Application Development,Medium,Generative AI
+Data Scientist,Data & AI,6,"Machine Learning, Scikit-learn, Statistics",Beginner,Machine Learning,High,MLOps
+Cybersecurity Analyst,Cybersecurity,3,"Cybersecurity, Risk Analysis, SIEM",Intermediate,Security Operations,High,Zero Trust Security
+Technology Consultant,Consulting,8,"Cloud Computing, Communication, Data Analytics",Advanced,Technology Consulting,High,AI Strategy
+DevOps Engineer,Technology,1,"CI/CD, Docker, Git, Kubernetes, Linux",Intermediate,CI/CD,High,MLOps
+Business Analyst,Consulting,3,"Power BI, Process Mapping, Requirements Analysis, SQL",Intermediate,Business Analysis,High,Automation
+UX Designer,Design,9,"Prototyping, UI Design, UX Design",Intermediate,UX Design,High,AI-Assisted Design
+Cloud Engineer,Cloud,5,"Docker, Linux, Networking, Python",Advanced,Cloud Infrastructure,High,AI Cloud
+Data Scientist,Data & AI,4,"Pandas, Python, SQL",Beginner,Predictive Analytics,High,MLOps
+Cybersecurity Analyst,Cybersecurity,8,"Cybersecurity, Linux, Risk Analysis, SIEM",Intermediate,Risk Management,High,AI Security
+Business Analyst,Consulting,12,"Communication, Power BI, SQL",Intermediate,Digital Transformation,High,Generative AI
+Data Analyst,Data & Analytics,11,"Data Visualisation, Power BI, SQL",Intermediate,Data Analytics,Medium,Generative AI
+Software Engineer,Technology,4,"APIs, Java, Python, SQL",Beginner,Application Development,High,Prompt Engineering
+UX Designer,Design,11,"Communication, Prototyping, UI Design",Advanced,UX Design,High,AI Product Design
+DevOps Engineer,Technology,12,"Cloud Computing, Docker, Git, Kubernetes, Linux",Intermediate,DevOps,Medium,MLOps
+Cloud Engineer,Cloud,7,"Cloud Computing, Docker, Linux, Networking",Intermediate,Cloud Migration,High,Generative AI
+Data Analyst,Data & Analytics,12,"Data Visualisation, Power BI, Python, Statistics",Advanced,Business Intelligence,High,Machine Learning
+Cybersecurity Analyst,Cybersecurity,2,"Cybersecurity, Linux, Networking, Risk Analysis, SIEM",Intermediate,Risk Management,Medium,AI Security
+DevOps Engineer,Technology,9,"Git, Kubernetes, Linux",Beginner,DevOps,High,Cloud Security
+Data Analyst,Data & Analytics,10,"Data Visualisation, Power BI, SQL, Statistics",Advanced,Business Intelligence,Medium,Data Engineering
+DevOps Engineer,Technology,11,"CI/CD, Cloud Computing, Docker, Linux",Intermediate,CI/CD,High,AI Cloud
+DevOps Engineer,Technology,8,"Cloud Computing, Docker, Kubernetes",Intermediate,CI/CD,Medium,Cloud Security
+AI Engineer,Data & AI,10,"APIs, Machine Learning, PyTorch",Intermediate,Generative AI,High,Generative AI
+Cloud Engineer,Cloud,10,"Cloud Computing, Docker, Kubernetes, Linux",Beginner,Cloud Migration,High,MLOps
+DevOps Engineer,Technology,10,"CI/CD, Cloud Computing, Docker, Git, Linux",Beginner,DevOps,High,Cloud Security
+Cloud Engineer,Cloud,2,"Cloud Computing, Docker, Kubernetes, Networking, Python",Advanced,Cloud Infrastructure,Medium,Cloud Security
+AI Engineer,Data & AI,10,"APIs, Cloud Computing, Machine Learning, PyTorch, TensorFlow",Advanced,Generative AI,High,AI Agents
+AI Engineer,Data & AI,4,"Cloud Computing, PyTorch, TensorFlow",Intermediate,Generative AI,Medium,Generative AI
+Cybersecurity Analyst,Cybersecurity,3,"Cybersecurity, Linux, Python, SIEM",Beginner,Risk Management,High,Cloud Security
+Data Analyst,Data & Analytics,6,"Data Visualisation, Excel, Power BI, Python",Beginner,Business Intelligence,Medium,Machine Learning
+UX Designer,Design,6,"Figma, Prototyping, UI Design, UX Design",Advanced,Product Design,High,Responsible AI
+Cloud Engineer,Cloud,4,"Cloud Computing, Kubernetes, Linux, Python",Intermediate,Cloud Migration,High,MLOps
+Data Scientist,Data & AI,9,"Pandas, Python, SQL, Scikit-learn, Statistics",Beginner,Machine Learning,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,6,"Linux, Networking, Python, SIEM",Intermediate,Risk Management,High,Zero Trust Security
+Cybersecurity Analyst,Cybersecurity,1,"Cybersecurity, Networking, Risk Analysis, SIEM",Beginner,Security Operations,High,AI Security
+Cloud Engineer,Cloud,3,"Docker, Kubernetes, Linux",Beginner,Cloud Infrastructure,High,MLOps
+Cybersecurity Analyst,Cybersecurity,12,"Cybersecurity, Networking, Python, Risk Analysis",Advanced,Security Operations,High,Generative AI
+UX Designer,Design,10,"Figma, UI Design, UX Design, User Research",Intermediate,UX Design,High,AI Product Design
+UX Designer,Design,12,"Figma, Prototyping, UX Design",Intermediate,Product Design,High,AI Product Design
+Software Engineer,Technology,6,"APIs, Git, Python, SQL",Advanced,Cloud Application,High,Prompt Engineering
+Data Scientist,Data & AI,11,"Machine Learning, Pandas, SQL, Scikit-learn, Statistics",Advanced,Machine Learning,High,MLOps
+Data Analyst,Data & Analytics,4,"Data Visualisation, Excel, Python, Statistics",Beginner,Business Intelligence,High,Cloud Computing
+Cloud Engineer,Cloud,5,"Docker, Kubernetes, Networking, Python",Beginner,Cloud Infrastructure,High,Cloud Security
+DevOps Engineer,Technology,7,"CI/CD, Cloud Computing, Docker, Git, Linux",Beginner,DevOps,Medium,MLOps
+Cybersecurity Analyst,Cybersecurity,10,"Linux, Networking, Python, Risk Analysis, SIEM",Intermediate,Risk Management,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,3,"Linux, Networking, SIEM",Beginner,Security Operations,High,Cloud Security
+AI Engineer,Data & AI,4,"APIs, Cloud Computing, PyTorch, Python, TensorFlow",Beginner,Generative AI,High,MLOps
+Software Engineer,Technology,11,"Cloud Computing, Git, Java, Python, SQL",Intermediate,Application Development,Medium,Generative AI
+Software Engineer,Technology,9,"APIs, Cloud Computing, Git, Java",Beginner,Application Development,High,Prompt Engineering
+Data Analyst,Data & Analytics,1,"Data Visualisation, Python, SQL, Statistics",Beginner,Business Intelligence,High,Generative AI
+Data Analyst,Data & Analytics,8,"Data Visualisation, Excel, Power BI, Statistics",Intermediate,Business Intelligence,High,Cloud Computing
+Cybersecurity Analyst,Cybersecurity,9,"Cybersecurity, Linux, Python, Risk Analysis, SIEM",Beginner,Security Operations,High,Cloud Security
+Data Scientist,Data & AI,8,"Python, SQL, Statistics",Intermediate,Machine Learning,High,Generative AI
+Cloud Engineer,Cloud,4,"Cloud Computing, Docker, Kubernetes, Networking, Python",Advanced,Cloud Infrastructure,Medium,AI Cloud
+Technology Consultant,Consulting,3,"Business Analysis, Cloud Computing, Communication, Data Analytics, SQL",Beginner,Cloud Strategy,High,AI Business Strategy
+Data Analyst,Data & Analytics,7,"Data Visualisation, Excel, Power BI, Python, Statistics",Intermediate,Data Analytics,Medium,Data Engineering
+UX Designer,Design,4,"Communication, UI Design, UX Design",Advanced,Product Design,High,Generative AI
+AI Engineer,Data & AI,8,"APIs, Cloud Computing, Machine Learning, PyTorch, TensorFlow",Intermediate,Generative AI,High,AI Agents
+Business Analyst,Consulting,6,"Excel, Power BI, Requirements Analysis, SQL",Intermediate,Digital Transformation,High,Automation
+Technology Consultant,Consulting,0,"Business Analysis, Cloud Computing, Data Analytics, SQL",Beginner,Cloud Strategy,High,AI Business Strategy
+DevOps Engineer,Technology,0,"CI/CD, Kubernetes, Linux",Intermediate,DevOps,High,AI Cloud
+Technology Consultant,Consulting,2,"Cloud Computing, Communication, Data Analytics, Project Management",Advanced,Technology Consulting,High,Cloud Security
+Technology Consultant,Consulting,0,"Cloud Computing, Communication, Data Analytics, Project Management, SQL",Advanced,Technology Consulting,Medium,Cloud Security
+Technology Consultant,Consulting,11,"Cloud Computing, Communication, Data Analytics, Project Management",Intermediate,Technology Consulting,Medium,AI Strategy
+UX Designer,Design,8,"Communication, Figma, UI Design, UX Design, User Research",Advanced,Product Design,High,AI Product Design
+Cybersecurity Analyst,Cybersecurity,9,"Linux, Networking, Python, Risk Analysis, SIEM",Intermediate,Risk Management,Medium,Generative AI
+Cloud Engineer,Cloud,11,"Docker, Linux, Python",Advanced,Cloud Migration,High,Generative AI
+AI Engineer,Data & AI,11,"Cloud Computing, Machine Learning, PyTorch, Python",Beginner,Generative AI,High,AI Agents
+Data Analyst,Data & Analytics,8,"Excel, Power BI, Python, SQL",Advanced,Data Analytics,Medium,Data Engineering
+Business Analyst,Consulting,9,"Communication, Excel, Power BI, Requirements Analysis, SQL",Advanced,Digital Transformation,High,Generative AI
+Cloud Engineer,Cloud,10,"Cloud Computing, Docker, Linux, Networking, Python",Intermediate,Cloud Infrastructure,Medium,Cloud Security
+Cybersecurity Analyst,Cybersecurity,0,"Cybersecurity, Linux, SIEM",Intermediate,Risk Management,High,Cloud Security
+Technology Consultant,Consulting,6,"Business Analysis, Cloud Computing, Communication, Data Analytics, SQL",Intermediate,Cloud Strategy,High,AI Business Strategy
+UX Designer,Design,2,"Communication, Figma, User Research",Beginner,UX Design,Medium,AI Product Design
+Technology Consultant,Consulting,2,"Business Analysis, Data Analytics, Project Management",Intermediate,Cloud Strategy,High,AI Business Strategy
+Cybersecurity Analyst,Cybersecurity,3,"Cybersecurity, Networking, Python, SIEM",Intermediate,Risk Management,High,AI Security
+DevOps Engineer,Technology,4,"CI/CD, Git, Linux",Advanced,CI/CD,High,AI Cloud
+Cloud Engineer,Cloud,10,"Docker, Linux, Networking",Intermediate,Cloud Infrastructure,High,MLOps
+Software Engineer,Technology,9,"APIs, Cloud Computing, Java, Python",Intermediate,Cloud Application,High,AI Engineering
+Data Scientist,Data & AI,12,"Machine Learning, Pandas, Python, SQL, Scikit-learn",Advanced,Machine Learning,High,AI Engineering
+Data Analyst,Data & Analytics,7,"Excel, Python, Statistics",Advanced,Business Intelligence,High,Cloud Computing
+Software Engineer,Technology,4,"APIs, Git, Java, Python, SQL",Intermediate,Cloud Application,High,AI Engineering
+AI Engineer,Data & AI,0,"APIs, Cloud Computing, Machine Learning, Python, TensorFlow",Intermediate,Generative AI,High,AI Agents
+Data Analyst,Data & Analytics,2,"Power BI, Python, SQL",Beginner,Data Analytics,High,Cloud Computing
+AI Engineer,Data & AI,5,"APIs, Cloud Computing, PyTorch, Python, TensorFlow",Advanced,Artificial Intelligence,Medium,AI Agents
+Cybersecurity Analyst,Cybersecurity,0,"Cybersecurity, Linux, Networking, Python, Risk Analysis",Advanced,Security Operations,High,Generative AI
+Software Engineer,Technology,6,"APIs, Git, Java, Python",Intermediate,Application Development,High,Cloud Computing
+Cloud Engineer,Cloud,2,"Cloud Computing, Docker, Kubernetes, Linux, Networking",Advanced,Cloud Infrastructure,High,Cloud Security
+UX Designer,Design,0,"Communication, Figma, UI Design, UX Design",Beginner,UX Design,High,AI-Assisted Design
+Business Analyst,Consulting,12,"Excel, Power BI, Process Mapping",Beginner,Business Analysis,High,Automation
+Technology Consultant,Consulting,1,"Cloud Computing, Communication, Data Analytics, Project Management, SQL",Intermediate,Technology Consulting,High,Cloud Security
+AI Engineer,Data & AI,10,"APIs, PyTorch, Python",Intermediate,Artificial Intelligence,Medium,AI Agents
+Data Analyst,Data & Analytics,1,"Data Visualisation, Excel, Python, SQL",Beginner,Business Intelligence,Medium,Data Engineering
+AI Engineer,Data & AI,8,"APIs, Cloud Computing, PyTorch, Python, TensorFlow",Intermediate,Artificial Intelligence,Medium,MLOps
+AI Engineer,Data & AI,6,"Cloud Computing, Machine Learning, Python, TensorFlow",Intermediate,Generative AI,High,Large Language Models
+AI Engineer,Data & AI,1,"Cloud Computing, PyTorch, Python",Beginner,Generative AI,High,Generative AI
+UX Designer,Design,8,"Communication, Figma, UI Design, UX Design, User Research",Advanced,UX Design,High,AI Product Design
+Business Analyst,Consulting,1,"Communication, Power BI, Process Mapping, Requirements Analysis, SQL",Beginner,Business Analysis,High,Data Analytics
+Data Analyst,Data & Analytics,12,"Data Visualisation, Excel, Power BI, Python",Advanced,Data Analytics,High,Machine Learning
+Data Scientist,Data & AI,4,"Machine Learning, Pandas, Python, Scikit-learn, Statistics",Advanced,Machine Learning,High,MLOps
+Software Engineer,Technology,1,"APIs, Cloud Computing, Git, Java, SQL",Intermediate,Cloud Application,High,Cloud Computing
+UX Designer,Design,9,"Prototyping, UI Design, UX Design",Intermediate,UX Design,High,AI Product Design
+AI Engineer,Data & AI,10,"APIs, Cloud Computing, Machine Learning, PyTorch",Beginner,Artificial Intelligence,High,AI Agents
+Data Analyst,Data & Analytics,4,"Data Visualisation, Excel, Power BI, Python, Statistics",Beginner,Business Intelligence,High,Machine Learning
+Cloud Engineer,Cloud,4,"Docker, Linux, Networking",Intermediate,Cloud Infrastructure,Medium,MLOps
+Data Scientist,Data & AI,2,"Machine Learning, Pandas, Python, SQL",Intermediate,Predictive Analytics,Medium,Generative AI
+AI Engineer,Data & AI,1,"APIs, Cloud Computing, PyTorch, TensorFlow",Intermediate,Generative AI,High,AI Agents
+Software Engineer,Technology,5,"APIs, Git, SQL",Beginner,Application Development,High,Prompt Engineering
+UX Designer,Design,6,"Figma, Prototyping, UI Design, UX Design, User Research",Beginner,UX Design,High,AI-Assisted Design
+Technology Consultant,Consulting,8,"Business Analysis, Communication, SQL",Beginner,Technology Consulting,High,AI Strategy
+Data Scientist,Data & AI,9,"Python, SQL, Scikit-learn",Advanced,Machine Learning,Medium,Large Language Models
+UX Designer,Design,10,"Communication, Figma, Prototyping, UI Design, UX Design",Beginner,Product Design,High,AI Product Design
+UX Designer,Design,0,"Figma, Prototyping, UI Design, UX Design",Intermediate,UX Design,High,AI Product Design
+Data Analyst,Data & Analytics,10,"Data Visualisation, Python, Statistics",Intermediate,Data Analytics,Medium,Generative AI
+Business Analyst,Consulting,9,"Communication, Excel, Process Mapping, SQL",Beginner,Digital Transformation,High,AI Business Strategy
+Software Engineer,Technology,3,"APIs, Cloud Computing, Git, Java, SQL",Advanced,Cloud Application,Medium,Cloud Computing
+UX Designer,Design,0,"Communication, Figma, UI Design, UX Design, User Research",Intermediate,Product Design,High,AI Product Design
+UX Designer,Design,2,"Prototyping, UI Design, UX Design, User Research",Intermediate,Product Design,High,AI-Assisted Design
+Cybersecurity Analyst,Cybersecurity,8,"Linux, Networking, Risk Analysis, SIEM",Intermediate,Security Operations,Medium,Generative AI
+Software Engineer,Technology,5,"APIs, Cloud Computing, Java, SQL",Beginner,Application Development,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,12,"Cybersecurity, Risk Analysis, SIEM",Intermediate,Security Operations,Medium,Cloud Security
+Data Scientist,Data & AI,2,"Pandas, Python, SQL, Scikit-learn, Statistics",Intermediate,Predictive Analytics,Medium,AI Engineering
+AI Engineer,Data & AI,3,"Cloud Computing, Machine Learning, PyTorch, Python, TensorFlow",Intermediate,Generative AI,Medium,MLOps
+DevOps Engineer,Technology,8,"CI/CD, Docker, Git, Kubernetes, Linux",Advanced,DevOps,Medium,AI Cloud
+Technology Consultant,Consulting,1,"Business Analysis, Cloud Computing, Communication, Data Analytics, Project Management",Beginner,Technology Consulting,Medium,Generative AI
+Cloud Engineer,Cloud,7,"Cloud Computing, Kubernetes, Linux, Python",Intermediate,Cloud Infrastructure,Medium,AI Cloud
+Business Analyst,Consulting,3,"Communication, Excel, Power BI",Intermediate,Business Analysis,High,Data Analytics
+AI Engineer,Data & AI,11,"APIs, Cloud Computing, PyTorch",Intermediate,Artificial Intelligence,High,MLOps
+Cloud Engineer,Cloud,2,"Cloud Computing, Docker, Kubernetes, Linux, Python",Beginner,Cloud Infrastructure,High,Cloud Security
+DevOps Engineer,Technology,10,"CI/CD, Cloud Computing, Docker, Git, Linux",Intermediate,DevOps,High,AI Cloud
+DevOps Engineer,Technology,0,"Cloud Computing, Docker, Git, Kubernetes, Linux",Intermediate,CI/CD,High,AI Engineering
+DevOps Engineer,Technology,7,"Cloud Computing, Kubernetes, Linux",Beginner,DevOps,High,AI Engineering
+Business Analyst,Consulting,3,"Communication, Excel, Power BI, Process Mapping, Requirements Analysis",Intermediate,Digital Transformation,High,Automation
+AI Engineer,Data & AI,10,"Machine Learning, PyTorch, Python",Beginner,Artificial Intelligence,High,Large Language Models
+Software Engineer,Technology,5,"APIs, Cloud Computing, Git, Java",Beginner,Application Development,High,Cloud Computing
+Software Engineer,Technology,10,"Cloud Computing, Java, Python, SQL",Advanced,Cloud Application,Medium,Cloud Computing
+Data Scientist,Data & AI,7,"Machine Learning, Pandas, Python, SQL, Statistics",Beginner,Predictive Analytics,High,AI Engineering
+Data Analyst,Data & Analytics,1,"Data Visualisation, Excel, Power BI, Statistics",Intermediate,Business Intelligence,High,Cloud Computing
+Business Analyst,Consulting,7,"Communication, Power BI, Requirements Analysis",Beginner,Business Analysis,High,Automation
+Business Analyst,Consulting,8,"Communication, Excel, Process Mapping, Requirements Analysis, SQL",Beginner,Business Analysis,High,Data Analytics
+Business Analyst,Consulting,6,"Excel, Power BI, Process Mapping, Requirements Analysis, SQL",Advanced,Digital Transformation,Medium,Generative AI
+UX Designer,Design,2,"Communication, Figma, Prototyping, UI Design, User Research",Beginner,UX Design,High,Generative AI
+AI Engineer,Data & AI,8,"APIs, Machine Learning, Python, TensorFlow",Intermediate,Artificial Intelligence,High,AI Agents
+Cloud Engineer,Cloud,1,"Cloud Computing, Linux, Python",Advanced,Cloud Migration,High,Generative AI
+Business Analyst,Consulting,11,"Communication, Power BI, Process Mapping",Advanced,Business Analysis,High,Data Analytics
+Technology Consultant,Consulting,3,"Communication, Data Analytics, SQL",Intermediate,Technology Consulting,High,Cloud Security
+AI Engineer,Data & AI,12,"APIs, Cloud Computing, Machine Learning, PyTorch, Python",Intermediate,Generative AI,Medium,AI Agents
+UX Designer,Design,1,"Figma, UX Design, User Research",Intermediate,Product Design,High,Generative AI
+Data Scientist,Data & AI,6,"Pandas, Python, SQL, Scikit-learn, Statistics",Beginner,Predictive Analytics,High,AI Engineering
+Data Analyst,Data & Analytics,4,"Data Visualisation, Power BI, Statistics",Beginner,Business Intelligence,High,Generative AI
+UX Designer,Design,9,"Figma, Prototyping, UI Design",Advanced,UX Design,High,AI-Assisted Design
+Software Engineer,Technology,10,"Cloud Computing, Git, Java, Python, SQL",Intermediate,Cloud Application,High,Prompt Engineering
+Cloud Engineer,Cloud,12,"Cloud Computing, Docker, Kubernetes, Networking, Python",Beginner,Cloud Migration,Medium,MLOps
+Cloud Engineer,Cloud,5,"Docker, Kubernetes, Linux, Networking, Python",Advanced,Cloud Infrastructure,High,AI Cloud
+Business Analyst,Consulting,3,"Communication, Excel, Power BI, Requirements Analysis",Beginner,Business Analysis,High,Automation
+UX Designer,Design,6,"Figma, Prototyping, UI Design",Beginner,UX Design,Medium,Responsible AI
+AI Engineer,Data & AI,4,"Cloud Computing, PyTorch, Python, TensorFlow",Intermediate,Artificial Intelligence,High,MLOps
+Software Engineer,Technology,0,"APIs, Cloud Computing, Git, Java",Intermediate,Application Development,Medium,AI Engineering
+Cybersecurity Analyst,Cybersecurity,11,"Cybersecurity, Linux, Networking, Python",Beginner,Security Operations,High,Generative AI
+Data Analyst,Data & Analytics,6,"Data Visualisation, Power BI, Python, SQL, Statistics",Beginner,Data Analytics,Medium,Data Engineering
+Business Analyst,Consulting,8,"Communication, Power BI, Requirements Analysis, SQL",Beginner,Business Analysis,High,Data Analytics
+AI Engineer,Data & AI,8,"APIs, Cloud Computing, Machine Learning, PyTorch",Advanced,Generative AI,High,AI Agents
+UX Designer,Design,11,"Communication, Figma, Prototyping, User Research",Intermediate,Product Design,High,AI Product Design
+Business Analyst,Consulting,10,"Power BI, Process Mapping, Requirements Analysis",Intermediate,Business Analysis,Medium,Data Analytics
+UX Designer,Design,9,"Communication, UX Design, User Research",Beginner,Product Design,High,Generative AI
+Software Engineer,Technology,9,"APIs, Cloud Computing, Java, Python, SQL",Intermediate,Cloud Application,High,Prompt Engineering
+Technology Consultant,Consulting,12,"Business Analysis, Cloud Computing, Data Analytics, Project Management, SQL",Intermediate,Cloud Strategy,Medium,Cloud Security
+Data Scientist,Data & AI,7,"Machine Learning, Pandas, SQL, Scikit-learn, Statistics",Intermediate,Predictive Analytics,High,AI Engineering
+Technology Consultant,Consulting,4,"Business Analysis, Communication, SQL",Intermediate,Cloud Strategy,High,AI Business Strategy
+Business Analyst,Consulting,8,"Communication, Excel, Power BI, Process Mapping, SQL",Advanced,Digital Transformation,High,AI Business Strategy
+Cybersecurity Analyst,Cybersecurity,0,"Cybersecurity, Linux, Networking, SIEM",Intermediate,Risk Management,High,Cloud Security
+Technology Consultant,Consulting,4,"Business Analysis, Cloud Computing, Communication, Data Analytics, SQL",Beginner,Technology Consulting,High,Generative AI
+Data Analyst,Data & Analytics,6,"Power BI, Python, SQL, Statistics",Intermediate,Data Analytics,High,Cloud Computing
+AI Engineer,Data & AI,7,"APIs, Cloud Computing, Machine Learning, Python, TensorFlow",Advanced,Artificial Intelligence,High,Generative AI
+Data Scientist,Data & AI,6,"Pandas, Python, Statistics",Beginner,Machine Learning,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,9,"Cybersecurity, Linux, Networking, Python, Risk Analysis",Advanced,Security Operations,Medium,Generative AI
+Cloud Engineer,Cloud,12,"Linux, Networking, Python",Intermediate,Cloud Infrastructure,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,9,"Linux, Networking, Python, Risk Analysis, SIEM",Beginner,Security Operations,High,Cloud Security
+AI Engineer,Data & AI,5,"PyTorch, Python, TensorFlow",Beginner,Generative AI,High,MLOps
+UX Designer,Design,11,"Communication, Figma, Prototyping, UX Design, User Research",Beginner,UX Design,Medium,AI Product Design
+Data Scientist,Data & AI,6,"Machine Learning, Pandas, Python, SQL, Scikit-learn",Intermediate,Predictive Analytics,High,MLOps
+AI Engineer,Data & AI,2,"APIs, Cloud Computing, Machine Learning, TensorFlow",Intermediate,Generative AI,High,Large Language Models
+UX Designer,Design,12,"Figma, Prototyping, User Research",Beginner,UX Design,High,Generative AI
+UX Designer,Design,8,"Figma, UI Design, User Research",Beginner,UX Design,Medium,AI-Assisted Design
+Technology Consultant,Consulting,7,"Communication, Project Management, SQL",Intermediate,Technology Consulting,Medium,Cloud Security
+Software Engineer,Technology,6,"Cloud Computing, Git, Java, Python",Intermediate,Application Development,High,Generative AI
+AI Engineer,Data & AI,0,"APIs, Machine Learning, PyTorch, TensorFlow",Advanced,Generative AI,High,AI Agents
+AI Engineer,Data & AI,6,"APIs, Machine Learning, Python, TensorFlow",Advanced,Artificial Intelligence,High,AI Agents
+Technology Consultant,Consulting,2,"Business Analysis, Cloud Computing, Communication, Data Analytics, SQL",Intermediate,Cloud Strategy,Medium,AI Strategy
+Cloud Engineer,Cloud,7,"Docker, Kubernetes, Linux, Networking",Intermediate,Cloud Infrastructure,Medium,AI Cloud
+Cloud Engineer,Cloud,3,"Cloud Computing, Docker, Kubernetes",Intermediate,Cloud Infrastructure,High,AI Cloud
+DevOps Engineer,Technology,7,"CI/CD, Docker, Git",Beginner,CI/CD,High,AI Cloud
+UX Designer,Design,9,"Communication, Figma, UI Design, UX Design, User Research",Intermediate,Product Design,High,Generative AI
+DevOps Engineer,Technology,8,"CI/CD, Git, Kubernetes, Linux",Intermediate,CI/CD,Medium,MLOps
+Cybersecurity Analyst,Cybersecurity,6,"Networking, Python, Risk Analysis",Advanced,Risk Management,High,Zero Trust Security
+Software Engineer,Technology,8,"APIs, Cloud Computing, Git, Java",Beginner,Application Development,High,Generative AI
+AI Engineer,Data & AI,5,"APIs, Machine Learning, Python",Beginner,Artificial Intelligence,High,Large Language Models
+UX Designer,Design,11,"Communication, Prototyping, UI Design, UX Design, User Research",Intermediate,UX Design,High,Generative AI
+Data Analyst,Data & Analytics,11,"Data Visualisation, Excel, Python, Statistics",Advanced,Business Intelligence,High,Cloud Computing
+AI Engineer,Data & AI,8,"APIs, Cloud Computing, Machine Learning, PyTorch, TensorFlow",Intermediate,Generative AI,High,Large Language Models
+Business Analyst,Consulting,5,"Excel, Power BI, Process Mapping, SQL",Beginner,Digital Transformation,Medium,Data Analytics
+Data Scientist,Data & AI,3,"Pandas, SQL, Scikit-learn, Statistics",Intermediate,Machine Learning,High,Large Language Models
+AI Engineer,Data & AI,7,"Cloud Computing, Machine Learning, TensorFlow",Beginner,Generative AI,High,Generative AI
+Technology Consultant,Consulting,0,"Cloud Computing, Communication, Data Analytics",Intermediate,Technology Consulting,High,AI Strategy
+Software Engineer,Technology,3,"APIs, Git, Java, Python, SQL",Intermediate,Application Development,High,Prompt Engineering
+Software Engineer,Technology,0,"APIs, Cloud Computing, Java, Python, SQL",Advanced,Application Development,High,Generative AI
+Technology Consultant,Consulting,2,"Business Analysis, Data Analytics, SQL",Advanced,Cloud Strategy,Medium,Generative AI
+Business Analyst,Consulting,6,"Communication, Process Mapping, Requirements Analysis, SQL",Intermediate,Business Analysis,High,Generative AI
+DevOps Engineer,Technology,6,"CI/CD, Git, Kubernetes, Linux",Beginner,DevOps,High,Cloud Security
+DevOps Engineer,Technology,10,"CI/CD, Cloud Computing, Git, Linux",Beginner,CI/CD,High,AI Engineering
+Data Analyst,Data & Analytics,10,"Data Visualisation, Python, SQL, Statistics",Advanced,Business Intelligence,High,Generative AI
+UX Designer,Design,2,"Communication, Figma, Prototyping, UX Design, User Research",Intermediate,Product Design,High,Responsible AI
+Data Scientist,Data & AI,12,"Machine Learning, Pandas, Python, Scikit-learn, Statistics",Intermediate,Predictive Analytics,High,Large Language Models
+Business Analyst,Consulting,0,"Excel, Power BI, Process Mapping, Requirements Analysis, SQL",Intermediate,Digital Transformation,Medium,AI Business Strategy
+UX Designer,Design,10,"Communication, Figma, Prototyping, UX Design",Intermediate,UX Design,High,Generative AI
+DevOps Engineer,Technology,11,"Cloud Computing, Docker, Git, Kubernetes, Linux",Beginner,CI/CD,Medium,AI Cloud
+Cybersecurity Analyst,Cybersecurity,1,"Cybersecurity, Networking, Python",Intermediate,Risk Management,High,AI Security
+Data Analyst,Data & Analytics,5,"Data Visualisation, Excel, Power BI, SQL, Statistics",Beginner,Business Intelligence,High,Generative AI
+UX Designer,Design,8,"Communication, UI Design, User Research",Beginner,Product Design,High,Responsible AI
+Data Scientist,Data & AI,1,"Machine Learning, Scikit-learn, Statistics",Beginner,Predictive Analytics,High,AI Engineering
+Cloud Engineer,Cloud,11,"Cloud Computing, Docker, Kubernetes, Linux, Python",Beginner,Cloud Infrastructure,Medium,Generative AI
+UX Designer,Design,6,"Communication, Figma, Prototyping, User Research",Advanced,UX Design,High,AI Product Design
+UX Designer,Design,11,"Figma, UI Design, User Research",Advanced,Product Design,High,Responsible AI
+UX Designer,Design,12,"Communication, Figma, User Research",Advanced,Product Design,High,AI-Assisted Design
+UX Designer,Design,3,"Communication, Figma, Prototyping, UI Design, UX Design",Advanced,UX Design,Medium,AI Product Design
+Data Analyst,Data & Analytics,12,"Excel, Power BI, Python, Statistics",Intermediate,Business Intelligence,High,Cloud Computing
+DevOps Engineer,Technology,1,"CI/CD, Cloud Computing, Kubernetes, Linux",Intermediate,CI/CD,High,AI Cloud
+Technology Consultant,Consulting,9,"Business Analysis, Cloud Computing, Communication, Project Management, SQL",Beginner,Technology Consulting,Medium,Cloud Security
+DevOps Engineer,Technology,1,"Docker, Git, Kubernetes",Intermediate,DevOps,Medium,AI Cloud
+DevOps Engineer,Technology,7,"CI/CD, Cloud Computing, Docker, Git, Linux",Intermediate,CI/CD,Medium,AI Engineering
+Data Analyst,Data & Analytics,11,"Data Visualisation, Power BI, Statistics",Intermediate,Data Analytics,Medium,Data Engineering
+AI Engineer,Data & AI,1,"Cloud Computing, PyTorch, Python, TensorFlow",Intermediate,Artificial Intelligence,High,MLOps
+Data Analyst,Data & Analytics,10,"Data Visualisation, Excel, Statistics",Intermediate,Business Intelligence,Medium,Cloud Computing
+Cloud Engineer,Cloud,12,"Docker, Kubernetes, Linux, Networking",Intermediate,Cloud Migration,High,Cloud Security
+AI Engineer,Data & AI,9,"APIs, Machine Learning, PyTorch, Python",Beginner,Artificial Intelligence,High,Large Language Models
+Business Analyst,Consulting,5,"Excel, Power BI, Requirements Analysis",Intermediate,Digital Transformation,High,Automation
+UX Designer,Design,6,"Communication, Figma, Prototyping, UI Design, UX Design",Advanced,Product Design,High,Generative AI
+Business Analyst,Consulting,1,"Excel, Power BI, SQL",Intermediate,Business Analysis,Medium,Automation
+UX Designer,Design,2,"Communication, Prototyping, UI Design, UX Design, User Research",Intermediate,Product Design,High,Generative AI
+Data Scientist,Data & AI,5,"Machine Learning, Pandas, Python, Scikit-learn",Intermediate,Predictive Analytics,Medium,Large Language Models
+DevOps Engineer,Technology,10,"CI/CD, Cloud Computing, Git, Linux",Beginner,DevOps,High,AI Cloud
+Software Engineer,Technology,4,"APIs, Java, SQL",Intermediate,Cloud Application,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,12,"Cybersecurity, Linux, Networking, Risk Analysis, SIEM",Intermediate,Risk Management,High,Cloud Security
+Cybersecurity Analyst,Cybersecurity,0,"Cybersecurity, Linux, Networking, SIEM",Advanced,Security Operations,High,Cloud Security
+UX Designer,Design,11,"Communication, Prototyping, UX Design, User Research",Intermediate,UX Design,High,AI-Assisted Design
+UX Designer,Design,5,"Communication, Figma, Prototyping, UI Design, User Research",Beginner,Product Design,High,Generative AI
+DevOps Engineer,Technology,0,"CI/CD, Cloud Computing, Docker, Git",Beginner,CI/CD,High,Cloud Security
+AI Engineer,Data & AI,2,"APIs, Cloud Computing, Machine Learning, PyTorch, TensorFlow",Beginner,Artificial Intelligence,Medium,MLOps
+Business Analyst,Consulting,7,"Communication, Excel, Power BI, Process Mapping",Beginner,Digital Transformation,High,Generative AI
+Technology Consultant,Consulting,6,"Communication, Project Management, SQL",Beginner,Cloud Strategy,High,AI Strategy
+UX Designer,Design,7,"Communication, Prototyping, UX Design, User Research",Intermediate,Product Design,High,AI-Assisted Design
+Data Scientist,Data & AI,7,"Machine Learning, Python, SQL, Statistics",Advanced,Machine Learning,High,AI Engineering
+Data Analyst,Data & Analytics,10,"Power BI, Python, SQL, Statistics",Advanced,Data Analytics,High,Cloud Computing
+Cybersecurity Analyst,Cybersecurity,11,"Cybersecurity, Linux, Networking, Python, Risk Analysis",Beginner,Risk Management,High,Cloud Security
+UX Designer,Design,3,"Communication, Prototyping, UI Design, UX Design, User Research",Advanced,Product Design,High,Responsible AI
+Data Analyst,Data & Analytics,3,"Data Visualisation, Excel, SQL, Statistics",Intermediate,Business Intelligence,High,Cloud Computing
+Data Scientist,Data & AI,10,"Machine Learning, Pandas, Python, SQL, Statistics",Intermediate,Predictive Analytics,High,Large Language Models
+UX Designer,Design,10,"Prototyping, UI Design, UX Design, User Research",Intermediate,Product Design,High,Responsible AI
+Business Analyst,Consulting,12,"Excel, Power BI, SQL",Beginner,Digital Transformation,High,Data Analytics
+Cloud Engineer,Cloud,8,"Cloud Computing, Docker, Kubernetes, Linux, Python",Intermediate,Cloud Infrastructure,Medium,MLOps
+Data Analyst,Data & Analytics,3,"Data Visualisation, Power BI, SQL, Statistics",Advanced,Data Analytics,High,Data Engineering
+Data Scientist,Data & AI,6,"Machine Learning, Python, SQL, Scikit-learn, Statistics",Beginner,Predictive Analytics,High,AI Engineering
+Cloud Engineer,Cloud,0,"Docker, Networking, Python",Intermediate,Cloud Migration,Medium,MLOps
+Data Analyst,Data & Analytics,10,"Data Visualisation, Excel, Python, SQL, Statistics",Intermediate,Data Analytics,High,Data Engineering
+DevOps Engineer,Technology,9,"Cloud Computing, Docker, Git, Kubernetes, Linux",Intermediate,DevOps,High,MLOps
+Data Analyst,Data & Analytics,6,"Data Visualisation, Python, SQL",Intermediate,Data Analytics,High,Machine Learning
+Data Scientist,Data & AI,11,"Machine Learning, SQL, Statistics",Intermediate,Machine Learning,High,AI Engineering
+Data Scientist,Data & AI,11,"Pandas, Python, SQL, Scikit-learn",Advanced,Machine Learning,High,AI Engineering
+UX Designer,Design,10,"Communication, Figma, User Research",Beginner,UX Design,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,12,"Cybersecurity, Networking, Risk Analysis",Intermediate,Security Operations,High,AI Security
+Cloud Engineer,Cloud,0,"Cloud Computing, Linux, Networking, Python",Advanced,Cloud Infrastructure,Medium,Cloud Security
+Business Analyst,Consulting,3,"Communication, Excel, Power BI, Process Mapping",Intermediate,Business Analysis,High,AI Business Strategy
+Cloud Engineer,Cloud,12,"Cloud Computing, Kubernetes, Linux, Networking, Python",Intermediate,Cloud Migration,High,AI Cloud
+Technology Consultant,Consulting,7,"Business Analysis, Communication, SQL",Intermediate,Cloud Strategy,High,AI Business Strategy
+Business Analyst,Consulting,9,"Communication, Excel, Process Mapping, SQL",Beginner,Digital Transformation,High,AI Business Strategy
+Technology Consultant,Consulting,5,"Business Analysis, Cloud Computing, Communication, Data Analytics, SQL",Advanced,Cloud Strategy,High,AI Strategy
+Technology Consultant,Consulting,3,"Business Analysis, Cloud Computing, Project Management, SQL",Beginner,Technology Consulting,High,AI Business Strategy
+Business Analyst,Consulting,7,"Communication, Excel, Power BI, Process Mapping, Requirements Analysis",Intermediate,Digital Transformation,High,Generative AI
+DevOps Engineer,Technology,10,"CI/CD, Docker, Kubernetes",Advanced,CI/CD,High,AI Cloud
+AI Engineer,Data & AI,4,"APIs, Machine Learning, Python",Intermediate,Artificial Intelligence,High,Generative AI
+Data Scientist,Data & AI,7,"Machine Learning, Python, Scikit-learn, Statistics",Intermediate,Predictive Analytics,Medium,AI Engineering
+AI Engineer,Data & AI,4,"Machine Learning, Python, TensorFlow",Advanced,Artificial Intelligence,High,MLOps
+Data Scientist,Data & AI,1,"Machine Learning, Pandas, Python, SQL, Statistics",Intermediate,Machine Learning,High,Generative AI
+DevOps Engineer,Technology,7,"CI/CD, Cloud Computing, Docker, Git, Linux",Beginner,DevOps,High,AI Engineering
+Software Engineer,Technology,12,"Cloud Computing, Git, Java",Intermediate,Application Development,High,Generative AI
+Software Engineer,Technology,1,"Cloud Computing, Git, Java",Beginner,Cloud Application,High,Generative AI
+AI Engineer,Data & AI,0,"APIs, Cloud Computing, PyTorch",Intermediate,Generative AI,Medium,Large Language Models
+Business Analyst,Consulting,3,"Communication, Power BI, Requirements Analysis",Advanced,Business Analysis,High,Data Analytics
+AI Engineer,Data & AI,6,"APIs, Machine Learning, PyTorch, Python, TensorFlow",Beginner,Artificial Intelligence,High,Generative AI
+DevOps Engineer,Technology,12,"CI/CD, Cloud Computing, Docker, Kubernetes, Linux",Intermediate,DevOps,High,AI Cloud
+UX Designer,Design,3,"Figma, UX Design, User Research",Intermediate,UX Design,High,AI-Assisted Design
+Cloud Engineer,Cloud,10,"Cloud Computing, Docker, Networking",Intermediate,Cloud Infrastructure,Medium,Generative AI
+Data Scientist,Data & AI,2,"Machine Learning, Pandas, Scikit-learn",Advanced,Predictive Analytics,High,MLOps
+UX Designer,Design,3,"Figma, Prototyping, UI Design, User Research",Beginner,UX Design,High,Generative AI
+Software Engineer,Technology,8,"Cloud Computing, Java, Python, SQL",Intermediate,Application Development,High,Generative AI
+Software Engineer,Technology,2,"APIs, Cloud Computing, Java, Python, SQL",Advanced,Cloud Application,Medium,Generative AI
+Business Analyst,Consulting,4,"Communication, Power BI, Requirements Analysis, SQL",Advanced,Digital Transformation,High,Data Analytics
+Cloud Engineer,Cloud,10,"Docker, Kubernetes, Linux, Networking, Python",Beginner,Cloud Infrastructure,Medium,AI Cloud
+Data Scientist,Data & AI,9,"Pandas, Python, SQL, Scikit-learn",Beginner,Predictive Analytics,High,AI Engineering
+Business Analyst,Consulting,2,"Communication, Excel, Power BI, Requirements Analysis, SQL",Beginner,Business Analysis,High,Data Analytics
+Data Analyst,Data & Analytics,11,"Data Visualisation, Python, SQL",Intermediate,Data Analytics,Medium,Cloud Computing
+DevOps Engineer,Technology,5,"CI/CD, Cloud Computing, Git, Kubernetes, Linux",Beginner,DevOps,High,AI Cloud
+Software Engineer,Technology,5,"APIs, Cloud Computing, Python, SQL",Advanced,Application Development,High,Generative AI
+Business Analyst,Consulting,9,"Communication, Excel, Power BI, Process Mapping, Requirements Analysis",Intermediate,Digital Transformation,High,Generative AI
+Data Analyst,Data & Analytics,5,"Excel, Power BI, Python",Intermediate,Business Intelligence,High,Machine Learning
+Software Engineer,Technology,6,"APIs, Cloud Computing, Git, Java, Python",Beginner,Application Development,High,Prompt Engineering
+Cloud Engineer,Cloud,1,"Kubernetes, Linux, Networking",Advanced,Cloud Migration,High,Generative AI
+DevOps Engineer,Technology,7,"CI/CD, Cloud Computing, Git, Kubernetes",Intermediate,DevOps,High,Cloud Security
+Business Analyst,Consulting,2,"Excel, Power BI, Requirements Analysis, SQL",Beginner,Digital Transformation,High,AI Business Strategy
+Data Analyst,Data & Analytics,1,"Data Visualisation, Power BI, Python, SQL, Statistics",Intermediate,Business Intelligence,Medium,Cloud Computing
+UX Designer,Design,3,"Communication, Figma, UX Design, User Research",Beginner,UX Design,High,Responsible AI
+Data Scientist,Data & AI,2,"Python, SQL, Scikit-learn",Intermediate,Machine Learning,High,MLOps
+UX Designer,Design,4,"Communication, Prototyping, UI Design, UX Design",Intermediate,Product Design,High,Responsible AI
+Software Engineer,Technology,12,"APIs, Cloud Computing, Git, Java, Python",Beginner,Application Development,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,8,"Linux, Python, Risk Analysis, SIEM",Intermediate,Risk Management,High,Cloud Security
+Cybersecurity Analyst,Cybersecurity,6,"Python, Risk Analysis, SIEM",Beginner,Risk Management,High,AI Security
+AI Engineer,Data & AI,4,"APIs, Machine Learning, Python, TensorFlow",Beginner,Generative AI,High,Large Language Models
+Data Scientist,Data & AI,4,"Machine Learning, Pandas, SQL, Scikit-learn, Statistics",Intermediate,Predictive Analytics,High,Large Language Models
+Cloud Engineer,Cloud,6,"Cloud Computing, Docker, Kubernetes, Networking, Python",Beginner,Cloud Migration,High,AI Cloud
+Data Scientist,Data & AI,3,"Python, SQL, Scikit-learn",Intermediate,Machine Learning,High,AI Engineering
+Business Analyst,Consulting,7,"Communication, Excel, Process Mapping, Requirements Analysis, SQL",Intermediate,Digital Transformation,High,Automation
+UX Designer,Design,8,"Communication, Figma, UI Design, User Research",Advanced,UX Design,High,AI-Assisted Design
+DevOps Engineer,Technology,0,"CI/CD, Cloud Computing, Docker",Intermediate,DevOps,High,Cloud Security
+Technology Consultant,Consulting,0,"Business Analysis, Cloud Computing, Communication, Project Management, SQL",Intermediate,Technology Consulting,High,Cloud Security
+UX Designer,Design,12,"Communication, Figma, UI Design, User Research",Advanced,Product Design,High,Generative AI
+AI Engineer,Data & AI,4,"APIs, Cloud Computing, PyTorch, Python, TensorFlow",Beginner,Generative AI,High,MLOps
+Data Analyst,Data & Analytics,7,"Data Visualisation, Power BI, Statistics",Advanced,Business Intelligence,High,Generative AI
+Data Scientist,Data & AI,8,"Pandas, Python, Statistics",Intermediate,Predictive Analytics,High,Large Language Models
+Cybersecurity Analyst,Cybersecurity,4,"Cybersecurity, Linux, Python, SIEM",Intermediate,Security Operations,High,Cloud Security
+Technology Consultant,Consulting,10,"Business Analysis, Cloud Computing, Communication, Data Analytics",Advanced,Technology Consulting,High,Generative AI
+AI Engineer,Data & AI,2,"APIs, Cloud Computing, Machine Learning, PyTorch, TensorFlow",Intermediate,Artificial Intelligence,High,Large Language Models
+Cybersecurity Analyst,Cybersecurity,6,"Linux, Networking, Risk Analysis, SIEM",Advanced,Risk Management,High,AI Security
+AI Engineer,Data & AI,3,"Cloud Computing, Machine Learning, PyTorch, Python, TensorFlow",Advanced,Artificial Intelligence,High,Large Language Models
+Business Analyst,Consulting,6,"Communication, Excel, Power BI, Requirements Analysis, SQL",Intermediate,Digital Transformation,High,AI Business Strategy
+Business Analyst,Consulting,10,"Excel, Power BI, Requirements Analysis",Beginner,Business Analysis,High,Automation
+Data Analyst,Data & Analytics,2,"Data Visualisation, Excel, Power BI, Python, Statistics",Intermediate,Data Analytics,High,Data Engineering
+Software Engineer,Technology,5,"APIs, Git, Java, Python, SQL",Beginner,Cloud Application,High,AI Engineering
+Data Analyst,Data & Analytics,6,"Data Visualisation, Excel, Power BI, SQL, Statistics",Beginner,Business Intelligence,Medium,Data Engineering
+DevOps Engineer,Technology,10,"Cloud Computing, Kubernetes, Linux",Intermediate,DevOps,Medium,AI Engineering
+Cloud Engineer,Cloud,3,"Cloud Computing, Kubernetes, Linux, Networking, Python",Beginner,Cloud Infrastructure,Medium,Generative AI
+Technology Consultant,Consulting,9,"Cloud Computing, Communication, Data Analytics",Intermediate,Technology Consulting,High,Generative AI
+DevOps Engineer,Technology,7,"CI/CD, Docker, Git, Kubernetes",Intermediate,DevOps,High,AI Cloud
+DevOps Engineer,Technology,10,"CI/CD, Cloud Computing, Kubernetes",Intermediate,DevOps,Medium,AI Engineering
+Technology Consultant,Consulting,11,"Business Analysis, Cloud Computing, Communication, Project Management, SQL",Beginner,Technology Consulting,High,AI Strategy
+Business Analyst,Consulting,11,"Communication, Excel, Power BI, SQL",Intermediate,Business Analysis,Medium,Data Analytics
+Cloud Engineer,Cloud,0,"Cloud Computing, Docker, Kubernetes",Advanced,Cloud Migration,High,AI Cloud
+Technology Consultant,Consulting,1,"Business Analysis, Cloud Computing, Communication, Data Analytics, Project Management",Intermediate,Cloud Strategy,High,AI Business Strategy
+Software Engineer,Technology,1,"APIs, Python, SQL",Advanced,Cloud Application,Medium,Generative AI
+Data Analyst,Data & Analytics,12,"Data Visualisation, Excel, SQL",Intermediate,Business Intelligence,High,Machine Learning
+Business Analyst,Consulting,5,"Excel, Process Mapping, Requirements Analysis",Advanced,Digital Transformation,Medium,Automation
+DevOps Engineer,Technology,10,"Cloud Computing, Docker, Git",Advanced,DevOps,High,Cloud Security
+UX Designer,Design,7,"Communication, Figma, Prototyping, UI Design, User Research",Intermediate,UX Design,High,Responsible AI
+AI Engineer,Data & AI,1,"APIs, Machine Learning, PyTorch, Python",Intermediate,Artificial Intelligence,High,MLOps
+Technology Consultant,Consulting,8,"Cloud Computing, Communication, Data Analytics, Project Management, SQL",Intermediate,Cloud Strategy,High,Generative AI
+Software Engineer,Technology,10,"APIs, Cloud Computing, Git",Advanced,Application Development,Medium,Cloud Computing
+Cloud Engineer,Cloud,5,"Cloud Computing, Docker, Linux, Networking",Intermediate,Cloud Migration,High,AI Cloud
+AI Engineer,Data & AI,7,"Cloud Computing, Machine Learning, PyTorch, Python, TensorFlow",Beginner,Generative AI,High,Generative AI
+DevOps Engineer,Technology,6,"CI/CD, Cloud Computing, Git",Advanced,CI/CD,High,Cloud Security
+Business Analyst,Consulting,5,"Power BI, Requirements Analysis, SQL",Intermediate,Digital Transformation,High,Automation
+Data Analyst,Data & Analytics,1,"Excel, Power BI, Python, SQL, Statistics",Intermediate,Business Intelligence,High,Machine Learning
+Data Scientist,Data & AI,7,"Python, Scikit-learn, Statistics",Beginner,Predictive Analytics,High,Generative AI
+DevOps Engineer,Technology,3,"Cloud Computing, Docker, Git, Kubernetes",Beginner,DevOps,Medium,Cloud Security
+UX Designer,Design,8,"Prototyping, UX Design, User Research",Intermediate,Product Design,Medium,Generative AI
+UX Designer,Design,2,"Communication, Figma, UI Design, UX Design, User Research",Intermediate,Product Design,Medium,Generative AI
+Cybersecurity Analyst,Cybersecurity,6,"Cybersecurity, Linux, Networking, Python",Intermediate,Risk Management,High,Cloud Security
+Cloud Engineer,Cloud,3,"Cloud Computing, Docker, Kubernetes, Networking, Python",Advanced,Cloud Infrastructure,High,AI Cloud
+Business Analyst,Consulting,8,"Communication, Power BI, Process Mapping, Requirements Analysis",Intermediate,Digital Transformation,Medium,Generative AI
+Technology Consultant,Consulting,1,"Cloud Computing, Project Management, SQL",Intermediate,Technology Consulting,High,AI Strategy
+Cybersecurity Analyst,Cybersecurity,10,"Cybersecurity, Linux, Networking, Risk Analysis",Intermediate,Security Operations,High,Zero Trust Security
+Data Analyst,Data & Analytics,9,"Data Visualisation, Excel, Power BI, Python, Statistics",Beginner,Business Intelligence,High,Cloud Computing
+DevOps Engineer,Technology,6,"CI/CD, Docker, Git, Kubernetes, Linux",Beginner,CI/CD,High,AI Cloud
+UX Designer,Design,8,"Communication, Figma, Prototyping, UI Design, User Research",Beginner,UX Design,High,Generative AI
+Technology Consultant,Consulting,1,"Business Analysis, Cloud Computing, Data Analytics, Project Management",Beginner,Technology Consulting,High,Generative AI
+Business Analyst,Consulting,7,"Communication, Excel, Process Mapping, Requirements Analysis, SQL",Intermediate,Digital Transformation,Medium,Data Analytics
+Data Analyst,Data & Analytics,12,"Data Visualisation, Excel, Power BI, SQL, Statistics",Intermediate,Data Analytics,Medium,Cloud Computing
+Data Analyst,Data & Analytics,5,"Data Visualisation, Excel, Power BI",Intermediate,Data Analytics,Medium,Machine Learning
+Data Analyst,Data & Analytics,10,"Data Visualisation, Excel, Python, SQL",Intermediate,Business Intelligence,Medium,Machine Learning
+DevOps Engineer,Technology,4,"CI/CD, Cloud Computing, Docker, Git, Kubernetes",Intermediate,CI/CD,Medium,AI Engineering
+Cybersecurity Analyst,Cybersecurity,10,"Cybersecurity, Linux, Risk Analysis",Advanced,Security Operations,High,AI Security
+Cloud Engineer,Cloud,10,"Cloud Computing, Docker, Kubernetes, Linux, Python",Intermediate,Cloud Infrastructure,High,AI Cloud
+AI Engineer,Data & AI,11,"APIs, Cloud Computing, PyTorch, Python",Beginner,Generative AI,High,Large Language Models
+Cybersecurity Analyst,Cybersecurity,6,"Networking, Python, Risk Analysis, SIEM",Beginner,Security Operations,High,AI Security
+UX Designer,Design,0,"Communication, Figma, Prototyping, UI Design, UX Design",Intermediate,Product Design,Medium,Responsible AI
+DevOps Engineer,Technology,10,"CI/CD, Docker, Linux",Beginner,CI/CD,High,MLOps
+Cybersecurity Analyst,Cybersecurity,10,"Cybersecurity, Linux, Python, Risk Analysis, SIEM",Beginner,Security Operations,Medium,AI Security
+Cybersecurity Analyst,Cybersecurity,3,"Cybersecurity, Linux, Networking, Python, SIEM",Beginner,Security Operations,High,Cloud Security
+Data Analyst,Data & Analytics,2,"Data Visualisation, Power BI, Python, SQL, Statistics",Beginner,Data Analytics,High,Machine Learning
+Cloud Engineer,Cloud,11,"Cloud Computing, Docker, Kubernetes, Networking, Python",Beginner,Cloud Infrastructure,High,Generative AI
+AI Engineer,Data & AI,7,"APIs, Cloud Computing, Machine Learning, TensorFlow",Intermediate,Generative AI,Medium,Large Language Models
+Software Engineer,Technology,5,"Git, Java, SQL",Advanced,Application Development,High,Prompt Engineering
+AI Engineer,Data & AI,7,"APIs, PyTorch, Python, TensorFlow",Intermediate,Artificial Intelligence,High,Large Language Models
+Technology Consultant,Consulting,3,"Cloud Computing, Communication, Data Analytics, Project Management",Advanced,Technology Consulting,Medium,AI Strategy
+Software Engineer,Technology,8,"APIs, Cloud Computing, Git, SQL",Intermediate,Cloud Application,Medium,AI Engineering
+UX Designer,Design,11,"Communication, UI Design, UX Design, User Research",Intermediate,UX Design,High,Generative AI
+Technology Consultant,Consulting,2,"Business Analysis, Communication, Data Analytics, SQL",Intermediate,Cloud Strategy,High,AI Strategy
+AI Engineer,Data & AI,3,"Cloud Computing, Machine Learning, TensorFlow",Beginner,Artificial Intelligence,High,AI Agents
+AI Engineer,Data & AI,7,"Cloud Computing, Python, TensorFlow",Intermediate,Generative AI,High,Large Language Models
+DevOps Engineer,Technology,10,"CI/CD, Cloud Computing, Git, Kubernetes",Beginner,DevOps,Medium,AI Cloud
+Business Analyst,Consulting,7,"Excel, Process Mapping, Requirements Analysis, SQL",Beginner,Business Analysis,High,AI Business Strategy
+Data Scientist,Data & AI,2,"Machine Learning, Pandas, Python",Intermediate,Machine Learning,High,Generative AI
+AI Engineer,Data & AI,10,"APIs, Machine Learning, PyTorch, TensorFlow",Advanced,Artificial Intelligence,High,Generative AI
+Data Scientist,Data & AI,9,"Machine Learning, Python, SQL, Scikit-learn, Statistics",Beginner,Machine Learning,High,Large Language Models
+UX Designer,Design,9,"Communication, Figma, UI Design, UX Design, User Research",Intermediate,Product Design,Medium,Generative AI
+Cloud Engineer,Cloud,6,"Docker, Kubernetes, Linux, Networking, Python",Beginner,Cloud Migration,Medium,AI Cloud
+Cloud Engineer,Cloud,6,"Cloud Computing, Docker, Linux, Python",Intermediate,Cloud Migration,High,AI Cloud
+Data Scientist,Data & AI,7,"Pandas, Python, SQL, Scikit-learn, Statistics",Intermediate,Predictive Analytics,Medium,Large Language Models
+Business Analyst,Consulting,0,"Communication, Power BI, Process Mapping, Requirements Analysis, SQL",Intermediate,Business Analysis,Medium,AI Business Strategy
+Cybersecurity Analyst,Cybersecurity,7,"Cybersecurity, Linux, Python",Beginner,Security Operations,High,AI Security
+Technology Consultant,Consulting,0,"Business Analysis, Communication, Data Analytics, SQL",Intermediate,Technology Consulting,Medium,Cloud Security
+Cybersecurity Analyst,Cybersecurity,8,"Linux, Python, Risk Analysis, SIEM",Intermediate,Security Operations,Medium,Zero Trust Security
+Data Scientist,Data & AI,5,"Machine Learning, Pandas, SQL, Scikit-learn, Statistics",Intermediate,Machine Learning,High,Generative AI
+Cloud Engineer,Cloud,7,"Cloud Computing, Kubernetes, Linux, Networking, Python",Intermediate,Cloud Infrastructure,High,MLOps
+Software Engineer,Technology,12,"APIs, Git, Java",Beginner,Cloud Application,High,Cloud Computing
+Data Analyst,Data & Analytics,9,"Data Visualisation, Python, Statistics",Intermediate,Business Intelligence,High,Generative AI
+AI Engineer,Data & AI,7,"APIs, Machine Learning, TensorFlow",Beginner,Artificial Intelligence,High,Generative AI
+Business Analyst,Consulting,3,"Communication, Excel, Power BI, Process Mapping, SQL",Intermediate,Digital Transformation,Medium,AI Business Strategy
+Technology Consultant,Consulting,0,"Business Analysis, Cloud Computing, Communication, Data Analytics, SQL",Intermediate,Cloud Strategy,High,Cloud Security
+Cloud Engineer,Cloud,9,"Cloud Computing, Kubernetes, Python",Beginner,Cloud Migration,High,AI Cloud
+Technology Consultant,Consulting,4,"Business Analysis, Cloud Computing, Data Analytics, Project Management",Advanced,Cloud Strategy,Medium,AI Business Strategy
+UX Designer,Design,7,"Figma, Prototyping, User Research",Advanced,UX Design,Medium,AI-Assisted Design
+Cybersecurity Analyst,Cybersecurity,1,"Networking, Python, Risk Analysis, SIEM",Intermediate,Risk Management,High,Generative AI
+Cloud Engineer,Cloud,4,"Cloud Computing, Networking, Python",Intermediate,Cloud Infrastructure,Medium,Generative AI
+Business Analyst,Consulting,3,"Excel, Power BI, Process Mapping, Requirements Analysis, SQL",Beginner,Business Analysis,High,AI Business Strategy
+Cloud Engineer,Cloud,3,"Docker, Linux, Networking",Intermediate,Cloud Infrastructure,High,MLOps
+UX Designer,Design,0,"Figma, Prototyping, UI Design, UX Design, User Research",Intermediate,Product Design,Medium,Generative AI
+Technology Consultant,Consulting,4,"Cloud Computing, Communication, Data Analytics, SQL",Intermediate,Cloud Strategy,Medium,Generative AI
+Technology Consultant,Consulting,5,"Cloud Computing, Communication, Project Management, SQL",Intermediate,Cloud Strategy,High,Generative AI
+Software Engineer,Technology,10,"APIs, Git, Python",Intermediate,Cloud Application,High,Cloud Computing
+Cloud Engineer,Cloud,4,"Cloud Computing, Docker, Kubernetes, Networking",Intermediate,Cloud Infrastructure,Medium,Generative AI
+Business Analyst,Consulting,6,"Power BI, Process Mapping, Requirements Analysis, SQL",Intermediate,Business Analysis,High,AI Business Strategy
+Technology Consultant,Consulting,6,"Communication, Data Analytics, Project Management, SQL",Advanced,Technology Consulting,Medium,AI Business Strategy
+Data Scientist,Data & AI,10,"Machine Learning, Pandas, SQL, Scikit-learn, Statistics",Intermediate,Predictive Analytics,Medium,Generative AI
+Data Scientist,Data & AI,0,"Machine Learning, Python, Statistics",Intermediate,Machine Learning,High,AI Engineering
+Business Analyst,Consulting,8,"Communication, Excel, Power BI, Requirements Analysis, SQL",Intermediate,Business Analysis,High,Data Analytics
+Business Analyst,Consulting,5,"Communication, Excel, Process Mapping, Requirements Analysis, SQL",Intermediate,Digital Transformation,High,AI Business Strategy
+Business Analyst,Consulting,6,"Communication, Excel, Power BI, Process Mapping, Requirements Analysis",Beginner,Business Analysis,High,Data Analytics
+Cybersecurity Analyst,Cybersecurity,11,"Linux, Networking, Python, Risk Analysis",Intermediate,Risk Management,Medium,Zero Trust Security
+Data Scientist,Data & AI,2,"Machine Learning, SQL, Scikit-learn",Advanced,Predictive Analytics,High,MLOps
+DevOps Engineer,Technology,1,"Cloud Computing, Git, Linux",Beginner,CI/CD,High,AI Engineering
+Cybersecurity Analyst,Cybersecurity,9,"Cybersecurity, Linux, Python",Beginner,Risk Management,Medium,Cloud Security
+Data Scientist,Data & AI,8,"Machine Learning, Python, Scikit-learn",Advanced,Machine Learning,Medium,Large Language Models
+Technology Consultant,Consulting,4,"Business Analysis, Communication, Data Analytics, Project Management, SQL",Intermediate,Cloud Strategy,High,Cloud Security
+AI Engineer,Data & AI,8,"PyTorch, Python, TensorFlow",Intermediate,Generative AI,High,MLOps
+Software Engineer,Technology,0,"APIs, Cloud Computing, Java, Python, SQL",Intermediate,Cloud Application,Medium,Cloud Computing
+Software Engineer,Technology,12,"APIs, Java, Python, SQL",Intermediate,Application Development,Medium,Prompt Engineering
+DevOps Engineer,Technology,3,"CI/CD, Cloud Computing, Linux",Beginner,DevOps,Medium,MLOps
+Technology Consultant,Consulting,12,"Business Analysis, Communication, Data Analytics, Project Management, SQL",Intermediate,Technology Consulting,High,AI Strategy
+Cybersecurity Analyst,Cybersecurity,1,"Linux, Networking, Python, Risk Analysis, SIEM",Beginner,Security Operations,High,AI Security
+Technology Consultant,Consulting,0,"Business Analysis, Cloud Computing, Data Analytics",Beginner,Cloud Strategy,High,AI Strategy
+Data Analyst,Data & Analytics,2,"Excel, Power BI, Python",Intermediate,Business Intelligence,High,Cloud Computing
+Software Engineer,Technology,5,"Java, Python, SQL",Intermediate,Application Development,Medium,AI Engineering
+Cloud Engineer,Cloud,4,"Cloud Computing, Kubernetes, Linux, Python",Intermediate,Cloud Migration,High,AI Cloud
+Cloud Engineer,Cloud,7,"Cloud Computing, Docker, Linux, Networking, Python",Intermediate,Cloud Migration,High,Cloud Security
+Software Engineer,Technology,11,"APIs, Git, Java, Python, SQL",Beginner,Application Development,High,Generative AI
+Cloud Engineer,Cloud,10,"Cloud Computing, Linux, Networking, Python",Intermediate,Cloud Migration,High,AI Cloud
+Software Engineer,Technology,9,"APIs, Cloud Computing, Git, Java, Python",Beginner,Cloud Application,High,Cloud Computing
+Software Engineer,Technology,0,"Cloud Computing, Git, Java, Python",Intermediate,Cloud Application,High,Prompt Engineering
+Cloud Engineer,Cloud,0,"Cloud Computing, Kubernetes, Linux, Networking, Python",Intermediate,Cloud Migration,High,MLOps
+Cloud Engineer,Cloud,9,"Docker, Kubernetes, Networking",Intermediate,Cloud Migration,High,AI Cloud
+Technology Consultant,Consulting,2,"Business Analysis, Communication, Data Analytics, SQL",Beginner,Cloud Strategy,High,Generative AI
+UX Designer,Design,5,"Communication, Figma, Prototyping, UI Design, UX Design",Beginner,Product Design,High,AI Product Design
+Business Analyst,Consulting,6,"Communication, Excel, Power BI, Process Mapping, Requirements Analysis",Beginner,Business Analysis,High,Generative AI
+Cloud Engineer,Cloud,1,"Cloud Computing, Docker, Linux, Networking",Intermediate,Cloud Migration,Medium,Generative AI
+Software Engineer,Technology,5,"APIs, Cloud Computing, Python",Advanced,Application Development,Medium,Generative AI
+AI Engineer,Data & AI,12,"Cloud Computing, Machine Learning, PyTorch, Python, TensorFlow",Advanced,Generative AI,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,1,"Cybersecurity, Risk Analysis, SIEM",Intermediate,Risk Management,High,Cloud Security
+Technology Consultant,Consulting,10,"Data Analytics, Project Management, SQL",Intermediate,Cloud Strategy,Medium,AI Business Strategy
+Data Analyst,Data & Analytics,2,"Data Visualisation, Power BI, Python",Intermediate,Business Intelligence,High,Data Engineering
+Technology Consultant,Consulting,5,"Business Analysis, Communication, Data Analytics, Project Management",Beginner,Technology Consulting,Medium,Cloud Security
+Business Analyst,Consulting,7,"Excel, Process Mapping, Requirements Analysis, SQL",Intermediate,Business Analysis,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,3,"Cybersecurity, Linux, SIEM",Advanced,Security Operations,High,AI Security
+AI Engineer,Data & AI,5,"APIs, Machine Learning, TensorFlow",Advanced,Artificial Intelligence,High,MLOps
+Cybersecurity Analyst,Cybersecurity,1,"Cybersecurity, Linux, Networking, Python, Risk Analysis",Intermediate,Risk Management,High,Zero Trust Security
+UX Designer,Design,1,"Communication, Figma, Prototyping, UI Design, UX Design",Beginner,UX Design,High,AI Product Design
+DevOps Engineer,Technology,6,"CI/CD, Docker, Git",Intermediate,CI/CD,High,AI Cloud
+Technology Consultant,Consulting,0,"Communication, Data Analytics, Project Management, SQL",Intermediate,Technology Consulting,High,Generative AI
+DevOps Engineer,Technology,7,"CI/CD, Cloud Computing, Docker, Git, Linux",Beginner,CI/CD,High,MLOps
+Business Analyst,Consulting,1,"Excel, Process Mapping, Requirements Analysis, SQL",Beginner,Digital Transformation,High,AI Business Strategy
+AI Engineer,Data & AI,8,"Cloud Computing, Machine Learning, PyTorch",Intermediate,Artificial Intelligence,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,12,"Cybersecurity, Linux, Python, Risk Analysis",Intermediate,Risk Management,High,Generative AI
+Cloud Engineer,Cloud,5,"Cloud Computing, Docker, Kubernetes, Networking",Advanced,Cloud Migration,High,MLOps
+Software Engineer,Technology,3,"Cloud Computing, Java, SQL",Intermediate,Application Development,High,Generative AI
+Cloud Engineer,Cloud,9,"Cloud Computing, Kubernetes, Networking",Intermediate,Cloud Infrastructure,High,MLOps
+AI Engineer,Data & AI,0,"APIs, Cloud Computing, Machine Learning, Python",Intermediate,Generative AI,Medium,Large Language Models
+Software Engineer,Technology,6,"APIs, Cloud Computing, Git, Java, Python",Beginner,Application Development,High,Generative AI
+AI Engineer,Data & AI,10,"PyTorch, Python, TensorFlow",Intermediate,Generative AI,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,10,"Cybersecurity, Networking, Python, SIEM",Intermediate,Security Operations,High,Cloud Security
+Technology Consultant,Consulting,7,"Cloud Computing, Communication, Data Analytics, Project Management, SQL",Intermediate,Cloud Strategy,High,Generative AI
+Business Analyst,Consulting,10,"Communication, Power BI, Process Mapping, SQL",Beginner,Business Analysis,High,Automation
+Software Engineer,Technology,8,"APIs, Cloud Computing, Java, SQL",Intermediate,Application Development,Medium,AI Engineering
+DevOps Engineer,Technology,3,"CI/CD, Cloud Computing, Docker, Kubernetes, Linux",Intermediate,DevOps,High,MLOps
+UX Designer,Design,8,"Communication, Figma, UI Design, UX Design, User Research",Intermediate,UX Design,High,AI Product Design
+Data Analyst,Data & Analytics,8,"Data Visualisation, Excel, Python, SQL, Statistics",Intermediate,Business Intelligence,Medium,Cloud Computing
+Cybersecurity Analyst,Cybersecurity,7,"Cybersecurity, Linux, Networking, Risk Analysis, SIEM",Beginner,Security Operations,High,Cloud Security
+UX Designer,Design,3,"Communication, Figma, UX Design",Beginner,Product Design,High,Responsible AI
+Business Analyst,Consulting,2,"Communication, Excel, Requirements Analysis, SQL",Beginner,Business Analysis,Medium,Generative AI
+Cybersecurity Analyst,Cybersecurity,6,"Networking, Risk Analysis, SIEM",Beginner,Risk Management,Medium,Generative AI
+AI Engineer,Data & AI,3,"Cloud Computing, PyTorch, Python, TensorFlow",Intermediate,Artificial Intelligence,High,AI Agents
+AI Engineer,Data & AI,0,"APIs, Cloud Computing, PyTorch",Advanced,Artificial Intelligence,Medium,Generative AI
+Cloud Engineer,Cloud,4,"Docker, Linux, Networking, Python",Beginner,Cloud Migration,High,Cloud Security
+AI Engineer,Data & AI,10,"APIs, Cloud Computing, PyTorch, Python",Intermediate,Artificial Intelligence,Medium,AI Agents
+Business Analyst,Consulting,7,"Communication, Requirements Analysis, SQL",Advanced,Business Analysis,High,Data Analytics
+Data Scientist,Data & AI,11,"Machine Learning, Pandas, Python, SQL, Scikit-learn",Intermediate,Predictive Analytics,Medium,MLOps
+DevOps Engineer,Technology,8,"Docker, Git, Kubernetes, Linux",Advanced,DevOps,High,MLOps
+Data Scientist,Data & AI,12,"Machine Learning, Pandas, Python, SQL, Statistics",Beginner,Predictive Analytics,High,MLOps
+Cloud Engineer,Cloud,0,"Cloud Computing, Kubernetes, Linux, Networking, Python",Intermediate,Cloud Infrastructure,Medium,Cloud Security
+Cloud Engineer,Cloud,9,"Cloud Computing, Docker, Kubernetes, Linux, Python",Intermediate,Cloud Infrastructure,High,Generative AI
+UX Designer,Design,10,"Communication, Figma, Prototyping, UI Design, UX Design",Intermediate,UX Design,High,AI-Assisted Design
+UX Designer,Design,9,"Figma, Prototyping, UX Design, User Research",Intermediate,UX Design,High,AI Product Design
+UX Designer,Design,10,"Communication, Figma, Prototyping, UI Design, User Research",Advanced,UX Design,High,AI Product Design
+Business Analyst,Consulting,6,"Excel, Process Mapping, Requirements Analysis",Beginner,Business Analysis,High,Data Analytics
+Business Analyst,Consulting,8,"Communication, Power BI, Process Mapping, SQL",Beginner,Business Analysis,Medium,Data Analytics
+DevOps Engineer,Technology,9,"CI/CD, Cloud Computing, Git, Kubernetes",Intermediate,CI/CD,Medium,Cloud Security
+Data Scientist,Data & AI,9,"Machine Learning, SQL, Scikit-learn",Beginner,Predictive Analytics,Medium,Generative AI
+Cloud Engineer,Cloud,12,"Cloud Computing, Kubernetes, Linux, Networking, Python",Intermediate,Cloud Infrastructure,High,Cloud Security
+Cybersecurity Analyst,Cybersecurity,4,"Linux, Risk Analysis, SIEM",Intermediate,Security Operations,High,Generative AI
+DevOps Engineer,Technology,11,"CI/CD, Cloud Computing, Docker, Git, Linux",Advanced,CI/CD,Medium,AI Engineering
+Data Scientist,Data & AI,7,"Machine Learning, Scikit-learn, Statistics",Intermediate,Machine Learning,High,AI Engineering
+UX Designer,Design,11,"Figma, Prototyping, UI Design, UX Design, User Research",Intermediate,Product Design,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,0,"Linux, Networking, Python, Risk Analysis",Intermediate,Security Operations,High,Generative AI
+Business Analyst,Consulting,11,"Excel, Power BI, Requirements Analysis",Intermediate,Business Analysis,High,Automation
+Cybersecurity Analyst,Cybersecurity,3,"Cybersecurity, Linux, Networking, Python, Risk Analysis",Intermediate,Security Operations,Medium,AI Security
+AI Engineer,Data & AI,8,"Machine Learning, PyTorch, TensorFlow",Intermediate,Generative AI,High,Large Language Models
+Data Analyst,Data & Analytics,8,"Data Visualisation, Excel, Power BI, SQL, Statistics",Intermediate,Data Analytics,High,Data Engineering
+Software Engineer,Technology,10,"APIs, Cloud Computing, Git, Python, SQL",Intermediate,Cloud Application,High,Cloud Computing
+Cloud Engineer,Cloud,5,"Docker, Linux, Networking",Intermediate,Cloud Migration,High,Generative AI
+Data Scientist,Data & AI,2,"Pandas, Python, Scikit-learn, Statistics",Intermediate,Machine Learning,High,MLOps
+Cybersecurity Analyst,Cybersecurity,9,"Cybersecurity, Linux, Networking",Intermediate,Risk Management,Medium,AI Security
+Data Scientist,Data & AI,0,"Pandas, Python, SQL, Scikit-learn",Beginner,Machine Learning,Medium,MLOps
+UX Designer,Design,9,"Communication, Figma, Prototyping, UI Design, User Research",Advanced,UX Design,Medium,Generative AI
+Data Analyst,Data & Analytics,12,"Excel, Power BI, Python, SQL, Statistics",Intermediate,Data Analytics,High,Data Engineering
+Business Analyst,Consulting,6,"Communication, Power BI, Process Mapping",Intermediate,Business Analysis,High,Automation
+Data Analyst,Data & Analytics,5,"Data Visualisation, Excel, Power BI, Python",Intermediate,Data Analytics,High,Cloud Computing
+Data Analyst,Data & Analytics,5,"Excel, Power BI, Python, SQL, Statistics",Intermediate,Business Intelligence,High,Generative AI
+Technology Consultant,Consulting,2,"Business Analysis, Cloud Computing, Data Analytics, Project Management",Advanced,Cloud Strategy,Medium,Cloud Security
+Technology Consultant,Consulting,11,"Cloud Computing, Project Management, SQL",Beginner,Cloud Strategy,High,Generative AI
+AI Engineer,Data & AI,2,"APIs, PyTorch, Python, TensorFlow",Advanced,Generative AI,High,AI Agents
+Software Engineer,Technology,1,"APIs, Java, Python",Intermediate,Application Development,Medium,Cloud Computing
+DevOps Engineer,Technology,9,"CI/CD, Cloud Computing, Docker, Kubernetes, Linux",Beginner,CI/CD,Medium,AI Cloud
+Data Analyst,Data & Analytics,9,"Data Visualisation, Python, Statistics",Advanced,Business Intelligence,High,Data Engineering
+Technology Consultant,Consulting,0,"Business Analysis, Communication, Data Analytics",Beginner,Cloud Strategy,High,AI Strategy
+DevOps Engineer,Technology,11,"CI/CD, Cloud Computing, Docker, Kubernetes, Linux",Intermediate,DevOps,High,Cloud Security
+Data Scientist,Data & AI,3,"Machine Learning, Python, SQL, Scikit-learn, Statistics",Advanced,Predictive Analytics,High,Generative AI
+Data Analyst,Data & Analytics,10,"Data Visualisation, Excel, Python",Advanced,Data Analytics,High,Generative AI
+DevOps Engineer,Technology,7,"CI/CD, Cloud Computing, Docker, Kubernetes, Linux",Intermediate,CI/CD,Medium,AI Cloud
+Cloud Engineer,Cloud,2,"Cloud Computing, Docker, Networking, Python",Beginner,Cloud Migration,Medium,Generative AI
+Software Engineer,Technology,0,"APIs, Git, Java, Python, SQL",Advanced,Application Development,High,Cloud Computing
+AI Engineer,Data & AI,8,"APIs, Cloud Computing, Python",Beginner,Artificial Intelligence,High,Generative AI
+Business Analyst,Consulting,8,"Communication, Process Mapping, Requirements Analysis",Intermediate,Digital Transformation,Medium,Data Analytics
+Cybersecurity Analyst,Cybersecurity,4,"Cybersecurity, Linux, Risk Analysis",Intermediate,Risk Management,High,Zero Trust Security
+UX Designer,Design,2,"Communication, Figma, Prototyping, UI Design, UX Design",Beginner,UX Design,High,AI Product Design
+Data Scientist,Data & AI,9,"Machine Learning, Pandas, Python, Scikit-learn",Beginner,Predictive Analytics,High,Large Language Models
+Business Analyst,Consulting,12,"Power BI, Requirements Analysis, SQL",Beginner,Business Analysis,High,Generative AI
+Data Scientist,Data & AI,9,"Pandas, Scikit-learn, Statistics",Beginner,Machine Learning,High,MLOps
+UX Designer,Design,11,"Communication, Figma, UX Design, User Research",Beginner,Product Design,Medium,AI Product Design
+AI Engineer,Data & AI,11,"APIs, Cloud Computing, Machine Learning, PyTorch, TensorFlow",Beginner,Generative AI,High,MLOps
+AI Engineer,Data & AI,6,"APIs, Machine Learning, PyTorch, Python, TensorFlow",Advanced,Generative AI,High,MLOps
+Cybersecurity Analyst,Cybersecurity,4,"Linux, Python, Risk Analysis",Intermediate,Security Operations,High,Generative AI
+Data Scientist,Data & AI,5,"Pandas, Python, SQL, Scikit-learn, Statistics",Beginner,Predictive Analytics,Medium,AI Engineering
+Cloud Engineer,Cloud,11,"Cloud Computing, Linux, Networking, Python",Intermediate,Cloud Infrastructure,High,AI Cloud
+Data Analyst,Data & Analytics,1,"Excel, Power BI, Python, SQL, Statistics",Beginner,Business Intelligence,High,Cloud Computing
+Cybersecurity Analyst,Cybersecurity,12,"Cybersecurity, Linux, Risk Analysis, SIEM",Intermediate,Risk Management,High,Zero Trust Security
+DevOps Engineer,Technology,5,"Cloud Computing, Docker, Kubernetes",Intermediate,CI/CD,High,Cloud Security
+Data Scientist,Data & AI,10,"Python, SQL, Scikit-learn, Statistics",Intermediate,Predictive Analytics,Medium,AI Engineering
+Data Analyst,Data & Analytics,0,"Data Visualisation, Power BI, SQL",Intermediate,Data Analytics,Medium,Generative AI
+Software Engineer,Technology,0,"APIs, Cloud Computing, Git, Java, SQL",Advanced,Application Development,Medium,Prompt Engineering
+DevOps Engineer,Technology,6,"CI/CD, Cloud Computing, Docker, Git, Linux",Advanced,CI/CD,High,AI Cloud
+Business Analyst,Consulting,10,"Excel, Process Mapping, Requirements Analysis, SQL",Intermediate,Digital Transformation,High,Automation
+Cybersecurity Analyst,Cybersecurity,10,"Cybersecurity, Networking, Risk Analysis",Advanced,Security Operations,High,Zero Trust Security
+Data Analyst,Data & Analytics,10,"Excel, Power BI, Python, SQL, Statistics",Intermediate,Data Analytics,High,Generative AI
+Software Engineer,Technology,11,"APIs, Cloud Computing, Git, Java, Python",Intermediate,Cloud Application,High,Generative AI
+Business Analyst,Consulting,0,"Communication, Excel, Process Mapping, Requirements Analysis",Beginner,Digital Transformation,High,AI Business Strategy
+Data Analyst,Data & Analytics,0,"Data Visualisation, Excel, Python, SQL, Statistics",Beginner,Data Analytics,High,Generative AI
+Software Engineer,Technology,4,"APIs, Git, Java",Advanced,Application Development,High,Generative AI
+AI Engineer,Data & AI,9,"Cloud Computing, Machine Learning, PyTorch, Python, TensorFlow",Advanced,Generative AI,High,Generative AI
+UX Designer,Design,8,"Figma, UI Design, UX Design",Intermediate,Product Design,High,AI-Assisted Design
+Cybersecurity Analyst,Cybersecurity,2,"Linux, Networking, Python, SIEM",Beginner,Security Operations,High,AI Security
+UX Designer,Design,6,"Communication, UX Design, User Research",Beginner,UX Design,High,AI Product Design
+DevOps Engineer,Technology,11,"CI/CD, Cloud Computing, Docker, Git",Intermediate,CI/CD,Medium,MLOps
+Data Scientist,Data & AI,9,"Machine Learning, Pandas, Python, SQL, Statistics",Intermediate,Predictive Analytics,High,AI Engineering
+DevOps Engineer,Technology,0,"Cloud Computing, Docker, Git, Kubernetes, Linux",Intermediate,DevOps,Medium,MLOps
+Cybersecurity Analyst,Cybersecurity,0,"Cybersecurity, Networking, Python",Intermediate,Security Operations,High,AI Security
+Business Analyst,Consulting,4,"Power BI, Process Mapping, Requirements Analysis",Intermediate,Digital Transformation,High,Generative AI
+Software Engineer,Technology,8,"Git, Java, Python",Intermediate,Application Development,High,Prompt Engineering
+UX Designer,Design,9,"Figma, UI Design, UX Design, User Research",Intermediate,Product Design,High,AI-Assisted Design
+Cloud Engineer,Cloud,11,"Cloud Computing, Kubernetes, Linux, Python",Intermediate,Cloud Migration,High,MLOps
+Data Scientist,Data & AI,3,"Pandas, Python, SQL, Scikit-learn, Statistics",Intermediate,Predictive Analytics,High,AI Engineering
+Cloud Engineer,Cloud,5,"Cloud Computing, Docker, Kubernetes",Beginner,Cloud Infrastructure,Medium,MLOps
+DevOps Engineer,Technology,2,"CI/CD, Cloud Computing, Docker, Kubernetes",Advanced,DevOps,High,AI Engineering
+DevOps Engineer,Technology,8,"CI/CD, Cloud Computing, Docker, Linux",Beginner,CI/CD,High,MLOps
+Business Analyst,Consulting,6,"Communication, Excel, Power BI, Process Mapping, SQL",Intermediate,Business Analysis,High,Automation
+Technology Consultant,Consulting,0,"Business Analysis, Communication, Data Analytics, Project Management",Advanced,Cloud Strategy,Medium,AI Strategy
+Data Analyst,Data & Analytics,8,"Excel, Python, Statistics",Beginner,Business Intelligence,High,Machine Learning
+Software Engineer,Technology,7,"Cloud Computing, Git, Java, Python, SQL",Advanced,Cloud Application,High,Prompt Engineering
+Data Scientist,Data & AI,12,"Machine Learning, Python, Scikit-learn, Statistics",Beginner,Machine Learning,High,AI Engineering
+DevOps Engineer,Technology,12,"CI/CD, Cloud Computing, Docker, Kubernetes",Beginner,CI/CD,High,AI Cloud
+Software Engineer,Technology,1,"Git, Java, Python, SQL",Intermediate,Application Development,High,AI Engineering
+Business Analyst,Consulting,3,"Communication, Excel, Power BI, Requirements Analysis, SQL",Intermediate,Digital Transformation,Medium,Data Analytics
+Software Engineer,Technology,1,"APIs, Cloud Computing, Git, SQL",Intermediate,Application Development,Medium,Cloud Computing
+AI Engineer,Data & AI,9,"Cloud Computing, Machine Learning, PyTorch, Python",Beginner,Generative AI,High,MLOps
+Data Analyst,Data & Analytics,1,"Excel, Power BI, SQL",Intermediate,Data Analytics,High,Data Engineering
+DevOps Engineer,Technology,10,"CI/CD, Cloud Computing, Docker, Kubernetes, Linux",Intermediate,DevOps,High,MLOps
+Data Analyst,Data & Analytics,0,"Data Visualisation, Power BI, Python",Intermediate,Business Intelligence,Medium,Cloud Computing
+AI Engineer,Data & AI,4,"Cloud Computing, Machine Learning, PyTorch, Python, TensorFlow",Intermediate,Generative AI,High,Large Language Models
+Business Analyst,Consulting,4,"Communication, Power BI, Process Mapping, SQL",Intermediate,Business Analysis,High,AI Business Strategy
+Data Scientist,Data & AI,3,"Machine Learning, Python, SQL",Intermediate,Machine Learning,High,MLOps
+Technology Consultant,Consulting,11,"Business Analysis, Communication, Data Analytics",Beginner,Cloud Strategy,High,Cloud Security
+Data Analyst,Data & Analytics,0,"Data Visualisation, Excel, Python, Statistics",Beginner,Business Intelligence,High,Cloud Computing
+Cybersecurity Analyst,Cybersecurity,12,"Cybersecurity, Networking, Python, Risk Analysis, SIEM",Intermediate,Security Operations,High,AI Security
+Cybersecurity Analyst,Cybersecurity,0,"Networking, Python, Risk Analysis, SIEM",Beginner,Security Operations,High,Cloud Security
+Cybersecurity Analyst,Cybersecurity,3,"Cybersecurity, Python, Risk Analysis",Intermediate,Security Operations,Medium,Cloud Security
+AI Engineer,Data & AI,5,"APIs, Cloud Computing, Machine Learning, Python, TensorFlow",Intermediate,Generative AI,High,AI Agents
+Business Analyst,Consulting,0,"Communication, Power BI, Process Mapping, SQL",Advanced,Business Analysis,High,Automation
+DevOps Engineer,Technology,12,"Cloud Computing, Docker, Kubernetes, Linux",Advanced,DevOps,High,MLOps
+Cloud Engineer,Cloud,4,"Cloud Computing, Docker, Kubernetes, Networking",Intermediate,Cloud Infrastructure,High,MLOps
+Cybersecurity Analyst,Cybersecurity,6,"Networking, Python, Risk Analysis",Beginner,Risk Management,High,Zero Trust Security
+Software Engineer,Technology,4,"APIs, Cloud Computing, Git, Python, SQL",Intermediate,Application Development,High,Cloud Computing
+AI Engineer,Data & AI,1,"Cloud Computing, Machine Learning, PyTorch, Python, TensorFlow",Advanced,Artificial Intelligence,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,7,"Linux, Python, Risk Analysis",Intermediate,Risk Management,Medium,AI Security
+Business Analyst,Consulting,8,"Communication, Excel, Power BI, Process Mapping, Requirements Analysis",Beginner,Digital Transformation,High,Data Analytics
+Data Scientist,Data & AI,0,"Machine Learning, Python, Scikit-learn, Statistics",Beginner,Predictive Analytics,High,MLOps
+Data Analyst,Data & Analytics,9,"Data Visualisation, Power BI, Statistics",Advanced,Business Intelligence,High,Data Engineering
+Data Analyst,Data & Analytics,8,"Data Visualisation, Excel, Power BI, Python, SQL",Intermediate,Business Intelligence,Medium,Data Engineering
+Data Scientist,Data & AI,1,"Pandas, SQL, Scikit-learn",Advanced,Predictive Analytics,Medium,Large Language Models
+Data Analyst,Data & Analytics,1,"Power BI, Python, SQL",Intermediate,Business Intelligence,High,Cloud Computing
+UX Designer,Design,8,"Figma, Prototyping, UI Design, UX Design",Advanced,UX Design,High,Generative AI
+Cloud Engineer,Cloud,4,"Cloud Computing, Kubernetes, Linux",Intermediate,Cloud Infrastructure,High,AI Cloud
+AI Engineer,Data & AI,12,"Cloud Computing, Machine Learning, PyTorch, Python",Intermediate,Artificial Intelligence,Medium,Generative AI
+Cybersecurity Analyst,Cybersecurity,0,"Cybersecurity, Linux, Risk Analysis",Intermediate,Security Operations,High,Cloud Security
+Business Analyst,Consulting,0,"Power BI, Process Mapping, SQL",Intermediate,Business Analysis,High,Generative AI
+UX Designer,Design,12,"Communication, Prototyping, UI Design",Advanced,UX Design,High,AI-Assisted Design
+Cloud Engineer,Cloud,8,"Cloud Computing, Kubernetes, Linux, Networking, Python",Beginner,Cloud Migration,Medium,MLOps
+Cloud Engineer,Cloud,8,"Cloud Computing, Networking, Python",Beginner,Cloud Infrastructure,High,MLOps
+Business Analyst,Consulting,11,"Communication, Excel, Process Mapping, SQL",Intermediate,Digital Transformation,High,Automation
+UX Designer,Design,11,"Communication, Figma, UI Design, User Research",Intermediate,Product Design,High,AI-Assisted Design
+AI Engineer,Data & AI,10,"Machine Learning, PyTorch, Python, TensorFlow",Beginner,Generative AI,High,Generative AI
+Data Scientist,Data & AI,6,"Machine Learning, Pandas, Python, Scikit-learn",Advanced,Predictive Analytics,High,AI Engineering
+Cloud Engineer,Cloud,5,"Cloud Computing, Docker, Python",Beginner,Cloud Migration,Medium,Generative AI
+UX Designer,Design,9,"Communication, Figma, UI Design, User Research",Intermediate,Product Design,Medium,AI Product Design
+Data Scientist,Data & AI,12,"Machine Learning, Python, SQL, Scikit-learn",Intermediate,Predictive Analytics,High,Generative AI
+Software Engineer,Technology,1,"Cloud Computing, Git, Java, Python",Intermediate,Cloud Application,High,Cloud Computing
+UX Designer,Design,9,"Prototyping, UX Design, User Research",Intermediate,UX Design,High,Responsible AI
+AI Engineer,Data & AI,8,"APIs, PyTorch, Python, TensorFlow",Advanced,Artificial Intelligence,Medium,AI Agents
+Business Analyst,Consulting,6,"Communication, Excel, Process Mapping, Requirements Analysis",Intermediate,Digital Transformation,High,Automation
+DevOps Engineer,Technology,2,"CI/CD, Cloud Computing, Git, Linux",Intermediate,CI/CD,Medium,Cloud Security
+Technology Consultant,Consulting,2,"Business Analysis, Cloud Computing, Data Analytics, Project Management, SQL",Intermediate,Cloud Strategy,High,Cloud Security
+Software Engineer,Technology,0,"APIs, Cloud Computing, Java, Python, SQL",Intermediate,Cloud Application,Medium,Generative AI
+DevOps Engineer,Technology,5,"CI/CD, Git, Kubernetes, Linux",Beginner,DevOps,High,AI Engineering
+Data Analyst,Data & Analytics,4,"Excel, Power BI, SQL",Intermediate,Data Analytics,Medium,Cloud Computing
+UX Designer,Design,8,"Communication, Figma, UX Design, User Research",Beginner,Product Design,Medium,Responsible AI
+Business Analyst,Consulting,9,"Excel, Requirements Analysis, SQL",Intermediate,Digital Transformation,High,Data Analytics
+Business Analyst,Consulting,6,"Excel, Requirements Analysis, SQL",Beginner,Business Analysis,High,Automation
+Cloud Engineer,Cloud,9,"Cloud Computing, Docker, Kubernetes, Linux, Networking",Beginner,Cloud Migration,Medium,Cloud Security
+Business Analyst,Consulting,12,"Communication, Power BI, Process Mapping",Intermediate,Digital Transformation,High,Automation
+DevOps Engineer,Technology,4,"CI/CD, Docker, Git, Kubernetes, Linux",Intermediate,DevOps,Medium,AI Cloud
+Technology Consultant,Consulting,12,"Business Analysis, Cloud Computing, Communication, Data Analytics, Project Management",Intermediate,Technology Consulting,High,AI Strategy
+Cybersecurity Analyst,Cybersecurity,6,"Cybersecurity, Linux, Networking, Python",Beginner,Risk Management,High,Generative AI
+UX Designer,Design,3,"Communication, Prototyping, UI Design, UX Design",Beginner,Product Design,Medium,Responsible AI
+Technology Consultant,Consulting,6,"Cloud Computing, Communication, Data Analytics, SQL",Beginner,Technology Consulting,High,Cloud Security
+Technology Consultant,Consulting,2,"Business Analysis, Cloud Computing, Communication, Data Analytics, Project Management",Intermediate,Cloud Strategy,High,AI Business Strategy
+Business Analyst,Consulting,10,"Communication, Excel, Power BI, Requirements Analysis, SQL",Intermediate,Business Analysis,High,Automation
+Data Analyst,Data & Analytics,3,"Data Visualisation, Excel, Power BI, Python, SQL",Advanced,Data Analytics,Medium,Generative AI
+Data Scientist,Data & AI,1,"Machine Learning, SQL, Statistics",Intermediate,Predictive Analytics,Medium,AI Engineering
+Data Analyst,Data & Analytics,5,"Data Visualisation, Excel, Python, SQL, Statistics",Intermediate,Business Intelligence,High,Machine Learning
+UX Designer,Design,0,"Communication, Figma, UI Design, UX Design, User Research",Intermediate,Product Design,High,Generative AI
+AI Engineer,Data & AI,6,"APIs, PyTorch, TensorFlow",Beginner,Artificial Intelligence,High,Large Language Models
+Data Scientist,Data & AI,7,"Machine Learning, Pandas, Python, SQL, Statistics",Advanced,Machine Learning,Medium,Large Language Models
+Business Analyst,Consulting,11,"Excel, Power BI, Requirements Analysis, SQL",Beginner,Digital Transformation,High,Automation
+Software Engineer,Technology,12,"Cloud Computing, Git, Java",Intermediate,Application Development,High,Prompt Engineering
+Cloud Engineer,Cloud,10,"Cloud Computing, Docker, Networking, Python",Beginner,Cloud Infrastructure,Medium,Generative AI
+AI Engineer,Data & AI,7,"APIs, Cloud Computing, Machine Learning, PyTorch, TensorFlow",Intermediate,Artificial Intelligence,High,AI Agents
+Business Analyst,Consulting,2,"Excel, Process Mapping, Requirements Analysis, SQL",Advanced,Business Analysis,High,Automation
+Cloud Engineer,Cloud,4,"Cloud Computing, Kubernetes, Linux, Networking, Python",Intermediate,Cloud Infrastructure,High,Generative AI
+Data Scientist,Data & AI,9,"Pandas, Python, Statistics",Intermediate,Machine Learning,Medium,Generative AI
+Cloud Engineer,Cloud,11,"Docker, Linux, Networking",Intermediate,Cloud Migration,High,MLOps
+Cloud Engineer,Cloud,9,"Linux, Networking, Python",Beginner,Cloud Infrastructure,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,3,"Linux, Networking, Python, Risk Analysis, SIEM",Beginner,Risk Management,High,Generative AI
+DevOps Engineer,Technology,10,"CI/CD, Cloud Computing, Linux",Intermediate,CI/CD,High,AI Engineering
+Technology Consultant,Consulting,0,"Business Analysis, Project Management, SQL",Advanced,Technology Consulting,High,Cloud Security
+Technology Consultant,Consulting,9,"Business Analysis, Cloud Computing, Communication, Project Management",Advanced,Technology Consulting,High,Cloud Security
+Data Scientist,Data & AI,8,"Machine Learning, Python, SQL, Statistics",Intermediate,Machine Learning,High,AI Engineering
+Data Analyst,Data & Analytics,5,"Excel, Power BI, Python",Intermediate,Business Intelligence,High,Data Engineering
+UX Designer,Design,12,"Figma, Prototyping, UX Design, User Research",Intermediate,Product Design,High,Responsible AI
+Software Engineer,Technology,3,"APIs, Java, Python",Beginner,Cloud Application,High,Prompt Engineering
+DevOps Engineer,Technology,1,"CI/CD, Git, Kubernetes, Linux",Intermediate,CI/CD,Medium,AI Engineering
+Data Scientist,Data & AI,1,"Machine Learning, Python, SQL, Scikit-learn",Advanced,Machine Learning,High,Generative AI
+Technology Consultant,Consulting,12,"Cloud Computing, Communication, Data Analytics, Project Management, SQL",Intermediate,Cloud Strategy,High,Cloud Security
+Data Analyst,Data & Analytics,6,"Data Visualisation, Power BI, SQL, Statistics",Beginner,Business Intelligence,Medium,Cloud Computing
+Cybersecurity Analyst,Cybersecurity,9,"Cybersecurity, Linux, Networking, Risk Analysis, SIEM",Intermediate,Security Operations,High,AI Security
+Cybersecurity Analyst,Cybersecurity,5,"Cybersecurity, Python, SIEM",Beginner,Risk Management,High,Cloud Security
+DevOps Engineer,Technology,1,"Cloud Computing, Docker, Linux",Intermediate,CI/CD,High,AI Engineering
+Cybersecurity Analyst,Cybersecurity,7,"Linux, Networking, Python, SIEM",Intermediate,Risk Management,High,Zero Trust Security
+AI Engineer,Data & AI,6,"APIs, PyTorch, Python, TensorFlow",Intermediate,Generative AI,High,AI Agents
+DevOps Engineer,Technology,1,"CI/CD, Kubernetes, Linux",Intermediate,DevOps,Medium,AI Engineering
+Cybersecurity Analyst,Cybersecurity,7,"Cybersecurity, Linux, Python, SIEM",Advanced,Risk Management,High,Zero Trust Security
+Cybersecurity Analyst,Cybersecurity,9,"Cybersecurity, Risk Analysis, SIEM",Intermediate,Risk Management,Medium,AI Security
+AI Engineer,Data & AI,10,"APIs, Cloud Computing, Machine Learning, Python, TensorFlow",Intermediate,Artificial Intelligence,High,AI Agents
+Data Scientist,Data & AI,12,"Pandas, Python, Statistics",Intermediate,Machine Learning,High,Large Language Models
+AI Engineer,Data & AI,9,"APIs, Machine Learning, Python, TensorFlow",Beginner,Generative AI,High,AI Agents
+Technology Consultant,Consulting,0,"Cloud Computing, Data Analytics, Project Management",Beginner,Cloud Strategy,Medium,AI Business Strategy
+UX Designer,Design,11,"Communication, Figma, Prototyping, User Research",Intermediate,Product Design,High,AI-Assisted Design
+Data Scientist,Data & AI,2,"Pandas, Python, SQL",Intermediate,Predictive Analytics,High,MLOps
+AI Engineer,Data & AI,10,"Cloud Computing, Machine Learning, PyTorch",Advanced,Artificial Intelligence,High,MLOps
+AI Engineer,Data & AI,2,"APIs, Cloud Computing, PyTorch, Python",Advanced,Generative AI,Medium,AI Agents
+Software Engineer,Technology,7,"APIs, Cloud Computing, Git, Java, SQL",Beginner,Application Development,High,Prompt Engineering
+DevOps Engineer,Technology,7,"CI/CD, Cloud Computing, Docker, Git, Kubernetes",Intermediate,CI/CD,High,AI Engineering
+Technology Consultant,Consulting,0,"Business Analysis, Cloud Computing, Data Analytics, SQL",Advanced,Cloud Strategy,Medium,Generative AI
+AI Engineer,Data & AI,9,"APIs, Cloud Computing, PyTorch, Python, TensorFlow",Beginner,Artificial Intelligence,Medium,MLOps
+AI Engineer,Data & AI,3,"APIs, Cloud Computing, Machine Learning, PyTorch, TensorFlow",Beginner,Generative AI,Medium,AI Agents
+Business Analyst,Consulting,12,"Communication, Process Mapping, Requirements Analysis, SQL",Intermediate,Business Analysis,Medium,AI Business Strategy
+Data Scientist,Data & AI,3,"Pandas, Python, Statistics",Intermediate,Machine Learning,High,MLOps
+Cloud Engineer,Cloud,8,"Cloud Computing, Docker, Networking",Intermediate,Cloud Infrastructure,High,AI Cloud
+Data Analyst,Data & Analytics,5,"Data Visualisation, Excel, SQL, Statistics",Intermediate,Business Intelligence,High,Data Engineering
+Business Analyst,Consulting,12,"Power BI, Process Mapping, SQL",Advanced,Business Analysis,High,Automation
+AI Engineer,Data & AI,12,"APIs, Cloud Computing, Python",Advanced,Artificial Intelligence,High,Large Language Models
+Data Analyst,Data & Analytics,3,"Data Visualisation, Excel, Power BI, Python",Intermediate,Data Analytics,High,Data Engineering
+Business Analyst,Consulting,2,"Process Mapping, Requirements Analysis, SQL",Intermediate,Business Analysis,High,Automation
+Business Analyst,Consulting,4,"Communication, Excel, Power BI, Requirements Analysis, SQL",Intermediate,Business Analysis,High,Automation
+Cloud Engineer,Cloud,2,"Docker, Kubernetes, Networking, Python",Intermediate,Cloud Migration,High,MLOps
+Data Scientist,Data & AI,12,"Pandas, Python, Scikit-learn",Beginner,Machine Learning,Medium,MLOps
+DevOps Engineer,Technology,0,"Cloud Computing, Docker, Git, Kubernetes",Advanced,CI/CD,Medium,Cloud Security
+Technology Consultant,Consulting,4,"Business Analysis, Cloud Computing, Communication, Data Analytics, SQL",Advanced,Technology Consulting,Medium,AI Business Strategy
+Cloud Engineer,Cloud,8,"Docker, Kubernetes, Linux, Networking, Python",Intermediate,Cloud Migration,High,AI Cloud
+Technology Consultant,Consulting,5,"Business Analysis, Cloud Computing, Communication, SQL",Beginner,Cloud Strategy,High,AI Strategy
+Software Engineer,Technology,0,"APIs, Cloud Computing, Git, Java, SQL",Advanced,Application Development,High,Cloud Computing
+Cybersecurity Analyst,Cybersecurity,10,"Cybersecurity, Linux, Python, Risk Analysis, SIEM",Intermediate,Security Operations,Medium,Generative AI
+Cloud Engineer,Cloud,12,"Docker, Kubernetes, Linux, Networking, Python",Beginner,Cloud Infrastructure,Medium,Cloud Security
+Data Analyst,Data & Analytics,5,"Data Visualisation, Excel, Power BI, SQL, Statistics",Beginner,Business Intelligence,Medium,Machine Learning
+Data Analyst,Data & Analytics,0,"Data Visualisation, Excel, Python, Statistics",Beginner,Business Intelligence,Medium,Data Engineering
+UX Designer,Design,7,"Communication, Figma, Prototyping, UI Design, User Research",Advanced,UX Design,High,Responsible AI
+AI Engineer,Data & AI,2,"APIs, Cloud Computing, PyTorch, Python, TensorFlow",Intermediate,Artificial Intelligence,High,MLOps
+Data Analyst,Data & Analytics,9,"Power BI, Python, SQL, Statistics",Beginner,Data Analytics,High,Data Engineering
+Cybersecurity Analyst,Cybersecurity,5,"Cybersecurity, Linux, Python, Risk Analysis",Beginner,Risk Management,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,3,"Cybersecurity, Python, SIEM",Beginner,Risk Management,High,AI Security
+DevOps Engineer,Technology,7,"CI/CD, Cloud Computing, Docker, Kubernetes, Linux",Intermediate,DevOps,High,Cloud Security
+AI Engineer,Data & AI,10,"APIs, Machine Learning, Python, TensorFlow",Intermediate,Generative AI,Medium,Large Language Models
+DevOps Engineer,Technology,5,"CI/CD, Cloud Computing, Git, Kubernetes, Linux",Advanced,DevOps,High,AI Engineering
+Technology Consultant,Consulting,1,"Cloud Computing, Communication, Data Analytics",Advanced,Technology Consulting,Medium,Generative AI
+Data Analyst,Data & Analytics,10,"Data Visualisation, Excel, Power BI, Python, SQL",Advanced,Business Intelligence,High,Data Engineering
+DevOps Engineer,Technology,9,"Git, Kubernetes, Linux",Intermediate,CI/CD,High,AI Cloud
+DevOps Engineer,Technology,4,"Cloud Computing, Docker, Git",Beginner,DevOps,High,AI Engineering
+Data Scientist,Data & AI,4,"Machine Learning, Python, SQL, Scikit-learn",Advanced,Predictive Analytics,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,6,"Linux, Networking, Python",Advanced,Risk Management,Medium,AI Security
+Software Engineer,Technology,3,"APIs, Cloud Computing, Java",Intermediate,Cloud Application,High,Cloud Computing
+Software Engineer,Technology,5,"APIs, Git, Java, Python",Beginner,Application Development,High,Cloud Computing
+Technology Consultant,Consulting,9,"Business Analysis, Cloud Computing, Data Analytics, Project Management, SQL",Intermediate,Technology Consulting,High,Cloud Security
+Technology Consultant,Consulting,2,"Communication, Data Analytics, Project Management",Beginner,Cloud Strategy,High,AI Strategy
+Software Engineer,Technology,0,"APIs, Cloud Computing, Git, SQL",Intermediate,Cloud Application,High,Cloud Computing
+Software Engineer,Technology,2,"APIs, Cloud Computing, Git, Java, Python",Intermediate,Application Development,High,Cloud Computing
+DevOps Engineer,Technology,3,"CI/CD, Cloud Computing, Docker, Kubernetes, Linux",Advanced,CI/CD,High,MLOps
+Business Analyst,Consulting,5,"Power BI, Process Mapping, Requirements Analysis",Beginner,Business Analysis,High,Automation
+Software Engineer,Technology,0,"APIs, Cloud Computing, Git, Java, Python",Intermediate,Application Development,High,Prompt Engineering
+Data Analyst,Data & Analytics,5,"Data Visualisation, Power BI, Python, SQL",Advanced,Data Analytics,High,Cloud Computing
+Business Analyst,Consulting,3,"Communication, Excel, Process Mapping, SQL",Intermediate,Digital Transformation,High,Generative AI
+UX Designer,Design,10,"Communication, Prototyping, UI Design, User Research",Advanced,UX Design,High,Responsible AI
+UX Designer,Design,3,"UI Design, UX Design, User Research",Advanced,Product Design,High,Generative AI
+UX Designer,Design,10,"Communication, Figma, Prototyping, UI Design, UX Design",Intermediate,UX Design,High,Generative AI
+Technology Consultant,Consulting,11,"Business Analysis, Cloud Computing, Project Management, SQL",Intermediate,Cloud Strategy,High,AI Business Strategy
+Software Engineer,Technology,5,"APIs, Git, Python, SQL",Intermediate,Cloud Application,High,Generative AI
+Cloud Engineer,Cloud,0,"Docker, Kubernetes, Linux, Python",Beginner,Cloud Infrastructure,High,AI Cloud
+UX Designer,Design,12,"Communication, UI Design, User Research",Advanced,UX Design,High,Generative AI
+Business Analyst,Consulting,4,"Communication, Excel, Process Mapping",Intermediate,Business Analysis,High,Data Analytics
+Cloud Engineer,Cloud,1,"Cloud Computing, Kubernetes, Linux, Networking",Intermediate,Cloud Infrastructure,High,MLOps
+Data Analyst,Data & Analytics,10,"Data Visualisation, Python, SQL, Statistics",Advanced,Business Intelligence,High,Machine Learning
+Data Scientist,Data & AI,0,"Machine Learning, Python, Scikit-learn, Statistics",Beginner,Predictive Analytics,High,AI Engineering
+DevOps Engineer,Technology,6,"CI/CD, Docker, Linux",Advanced,DevOps,Medium,Cloud Security
+AI Engineer,Data & AI,12,"APIs, Cloud Computing, Machine Learning, Python",Intermediate,Artificial Intelligence,Medium,MLOps
+UX Designer,Design,3,"Communication, Prototyping, UX Design",Intermediate,UX Design,High,AI Product Design
+Business Analyst,Consulting,6,"Communication, Excel, Process Mapping, Requirements Analysis",Beginner,Business Analysis,High,AI Business Strategy
+Cybersecurity Analyst,Cybersecurity,9,"Linux, Python, Risk Analysis, SIEM",Advanced,Security Operations,High,Zero Trust Security
+Cybersecurity Analyst,Cybersecurity,9,"Cybersecurity, Linux, Risk Analysis, SIEM",Intermediate,Security Operations,High,Cloud Security
+Technology Consultant,Consulting,8,"Business Analysis, Project Management, SQL",Advanced,Technology Consulting,High,Cloud Security
+Cloud Engineer,Cloud,10,"Docker, Kubernetes, Networking, Python",Intermediate,Cloud Migration,High,MLOps
+Business Analyst,Consulting,2,"Communication, Excel, Requirements Analysis",Beginner,Business Analysis,High,AI Business Strategy
+AI Engineer,Data & AI,9,"Machine Learning, PyTorch, TensorFlow",Advanced,Generative AI,High,AI Agents
+Data Scientist,Data & AI,0,"Machine Learning, Pandas, Python, Scikit-learn",Intermediate,Predictive Analytics,High,Large Language Models
+Cloud Engineer,Cloud,10,"Cloud Computing, Docker, Kubernetes, Networking, Python",Beginner,Cloud Infrastructure,High,Cloud Security
+Business Analyst,Consulting,8,"Communication, Excel, SQL",Beginner,Digital Transformation,High,Generative AI
+Data Scientist,Data & AI,6,"Machine Learning, Pandas, Python, SQL, Statistics",Beginner,Machine Learning,High,Large Language Models
+Data Analyst,Data & Analytics,1,"Data Visualisation, Excel, Statistics",Intermediate,Business Intelligence,High,Cloud Computing
+Cloud Engineer,Cloud,0,"Cloud Computing, Docker, Kubernetes, Linux, Networking",Beginner,Cloud Migration,High,MLOps
+Cloud Engineer,Cloud,11,"Cloud Computing, Docker, Python",Beginner,Cloud Migration,High,MLOps
+Technology Consultant,Consulting,7,"Business Analysis, Communication, Project Management",Intermediate,Cloud Strategy,Medium,Cloud Security
+UX Designer,Design,6,"Communication, Figma, Prototyping, UI Design, UX Design",Intermediate,UX Design,Medium,Generative AI
+Cybersecurity Analyst,Cybersecurity,6,"Linux, Networking, Risk Analysis, SIEM",Intermediate,Security Operations,High,Generative AI
+AI Engineer,Data & AI,8,"APIs, Cloud Computing, Machine Learning, Python",Intermediate,Generative AI,Medium,AI Agents
+AI Engineer,Data & AI,6,"Cloud Computing, Machine Learning, PyTorch, TensorFlow",Intermediate,Artificial Intelligence,Medium,Large Language Models
+Cybersecurity Analyst,Cybersecurity,10,"Cybersecurity, Linux, SIEM",Advanced,Security Operations,High,Cloud Security
+Data Analyst,Data & Analytics,1,"Excel, Power BI, SQL",Intermediate,Business Intelligence,High,Data Engineering
+Cybersecurity Analyst,Cybersecurity,3,"Cybersecurity, Linux, Networking, Risk Analysis, SIEM",Beginner,Risk Management,Medium,Zero Trust Security
+UX Designer,Design,12,"Communication, Prototyping, UI Design, UX Design, User Research",Beginner,UX Design,Medium,Generative AI
+Technology Consultant,Consulting,9,"Business Analysis, Cloud Computing, Communication, Project Management, SQL",Advanced,Cloud Strategy,Medium,AI Strategy
+AI Engineer,Data & AI,7,"APIs, Cloud Computing, Machine Learning, Python, TensorFlow",Intermediate,Artificial Intelligence,Medium,MLOps
+Business Analyst,Consulting,3,"Communication, Power BI, Requirements Analysis, SQL",Intermediate,Business Analysis,High,AI Business Strategy
+Business Analyst,Consulting,9,"Communication, Excel, Process Mapping, Requirements Analysis, SQL",Advanced,Business Analysis,Medium,AI Business Strategy
+AI Engineer,Data & AI,1,"APIs, PyTorch, Python, TensorFlow",Beginner,Artificial Intelligence,High,AI Agents
+Software Engineer,Technology,2,"Git, Python, SQL",Beginner,Cloud Application,High,Prompt Engineering
+Software Engineer,Technology,5,"APIs, Git, Java, Python, SQL",Beginner,Application Development,High,Prompt Engineering
+AI Engineer,Data & AI,11,"APIs, Machine Learning, PyTorch",Advanced,Generative AI,Medium,AI Agents
+Data Scientist,Data & AI,9,"Machine Learning, Pandas, SQL, Scikit-learn, Statistics",Beginner,Predictive Analytics,High,Large Language Models
+Data Analyst,Data & Analytics,6,"Data Visualisation, Excel, Power BI, Python, Statistics",Intermediate,Data Analytics,High,Data Engineering
+AI Engineer,Data & AI,5,"APIs, Cloud Computing, PyTorch, Python, TensorFlow",Intermediate,Artificial Intelligence,Medium,AI Agents
+DevOps Engineer,Technology,10,"CI/CD, Cloud Computing, Git",Intermediate,DevOps,High,MLOps
+Cybersecurity Analyst,Cybersecurity,10,"Cybersecurity, Linux, Networking, Python, SIEM",Advanced,Security Operations,High,AI Security
+Data Analyst,Data & Analytics,8,"Data Visualisation, Excel, Python, Statistics",Beginner,Data Analytics,Medium,Machine Learning
+Data Analyst,Data & Analytics,10,"Data Visualisation, Excel, Power BI, Python, Statistics",Advanced,Business Intelligence,High,Machine Learning
+Cybersecurity Analyst,Cybersecurity,1,"Linux, Networking, Python, Risk Analysis, SIEM",Beginner,Security Operations,Medium,Cloud Security
+AI Engineer,Data & AI,4,"APIs, Machine Learning, Python",Beginner,Artificial Intelligence,Medium,Large Language Models
+Data Analyst,Data & Analytics,10,"Excel, Power BI, Statistics",Intermediate,Data Analytics,High,Machine Learning
+Technology Consultant,Consulting,3,"Cloud Computing, Communication, Data Analytics, SQL",Intermediate,Cloud Strategy,High,Generative AI
+Software Engineer,Technology,12,"Cloud Computing, Java, Python, SQL",Beginner,Application Development,Medium,Generative AI
+Software Engineer,Technology,5,"Cloud Computing, Java, Python",Advanced,Application Development,High,AI Engineering
+Software Engineer,Technology,6,"APIs, Cloud Computing, Git, Python, SQL",Intermediate,Cloud Application,Medium,Generative AI
+Cloud Engineer,Cloud,3,"Kubernetes, Linux, Networking",Beginner,Cloud Migration,High,MLOps
+Cloud Engineer,Cloud,7,"Cloud Computing, Docker, Networking",Beginner,Cloud Infrastructure,Medium,Generative AI
+UX Designer,Design,7,"Communication, Prototyping, UI Design",Beginner,UX Design,High,Responsible AI
+Data Scientist,Data & AI,5,"Machine Learning, Scikit-learn, Statistics",Beginner,Predictive Analytics,Medium,Large Language Models
+Technology Consultant,Consulting,10,"Business Analysis, Cloud Computing, Data Analytics, Project Management, SQL",Intermediate,Technology Consulting,High,AI Strategy
+DevOps Engineer,Technology,12,"CI/CD, Cloud Computing, Git",Beginner,CI/CD,High,MLOps
+Data Scientist,Data & AI,6,"Python, SQL, Scikit-learn",Advanced,Machine Learning,High,MLOps
+Cybersecurity Analyst,Cybersecurity,5,"Cybersecurity, Linux, Networking, Python, Risk Analysis",Intermediate,Security Operations,High,Generative AI
+Cloud Engineer,Cloud,3,"Cloud Computing, Docker, Linux, Networking, Python",Intermediate,Cloud Infrastructure,Medium,AI Cloud
+Data Analyst,Data & Analytics,7,"Excel, SQL, Statistics",Advanced,Data Analytics,High,Generative AI
+UX Designer,Design,8,"Prototyping, UI Design, UX Design",Intermediate,Product Design,High,Generative AI
+Cloud Engineer,Cloud,3,"Docker, Kubernetes, Linux, Python",Beginner,Cloud Migration,High,Generative AI
+AI Engineer,Data & AI,1,"APIs, Cloud Computing, Machine Learning, PyTorch",Intermediate,Generative AI,High,AI Agents
+Software Engineer,Technology,12,"Cloud Computing, Git, Python, SQL",Intermediate,Application Development,High,Prompt Engineering
+AI Engineer,Data & AI,4,"APIs, PyTorch, Python, TensorFlow",Intermediate,Generative AI,High,Large Language Models
+Cloud Engineer,Cloud,0,"Docker, Networking, Python",Intermediate,Cloud Migration,Medium,Generative AI
+DevOps Engineer,Technology,7,"CI/CD, Cloud Computing, Docker, Git",Advanced,DevOps,Medium,MLOps
+Cloud Engineer,Cloud,12,"Docker, Kubernetes, Networking, Python",Intermediate,Cloud Infrastructure,Medium,MLOps
+Cloud Engineer,Cloud,3,"Cloud Computing, Docker, Kubernetes, Networking",Intermediate,Cloud Infrastructure,High,MLOps
+Data Scientist,Data & AI,4,"Pandas, SQL, Scikit-learn",Beginner,Predictive Analytics,Medium,Large Language Models
+UX Designer,Design,1,"Communication, Figma, Prototyping, UI Design, User Research",Intermediate,Product Design,High,Responsible AI
+Data Analyst,Data & Analytics,1,"Data Visualisation, Excel, Power BI, Python, SQL",Advanced,Business Intelligence,High,Machine Learning
+Data Scientist,Data & AI,7,"Python, Scikit-learn, Statistics",Intermediate,Machine Learning,Medium,MLOps
+Data Scientist,Data & AI,5,"Pandas, SQL, Scikit-learn",Intermediate,Predictive Analytics,Medium,MLOps
+Data Scientist,Data & AI,3,"Pandas, SQL, Scikit-learn",Beginner,Machine Learning,Medium,Generative AI
+Data Scientist,Data & AI,1,"Python, SQL, Scikit-learn, Statistics",Beginner,Predictive Analytics,High,Large Language Models
+AI Engineer,Data & AI,10,"Cloud Computing, Python, TensorFlow",Intermediate,Artificial Intelligence,High,Generative AI
+Cloud Engineer,Cloud,8,"Docker, Networking, Python",Advanced,Cloud Migration,High,MLOps
+Business Analyst,Consulting,5,"Communication, Power BI, Process Mapping, Requirements Analysis, SQL",Intermediate,Business Analysis,High,Data Analytics
+Data Analyst,Data & Analytics,0,"Excel, Python, SQL, Statistics",Intermediate,Business Intelligence,High,Data Engineering
+AI Engineer,Data & AI,9,"APIs, Cloud Computing, PyTorch, Python, TensorFlow",Beginner,Generative AI,High,MLOps
+Software Engineer,Technology,12,"APIs, Cloud Computing, Git, Java, SQL",Intermediate,Application Development,High,Prompt Engineering
+AI Engineer,Data & AI,10,"APIs, Cloud Computing, PyTorch, Python, TensorFlow",Intermediate,Artificial Intelligence,High,AI Agents
+Data Analyst,Data & Analytics,4,"Data Visualisation, Excel, Python, SQL, Statistics",Intermediate,Data Analytics,High,Generative AI
+Data Scientist,Data & AI,12,"Pandas, Python, SQL, Scikit-learn, Statistics",Beginner,Machine Learning,Medium,AI Engineering
+Cloud Engineer,Cloud,11,"Cloud Computing, Kubernetes, Networking, Python",Beginner,Cloud Migration,High,Generative AI
+Cloud Engineer,Cloud,9,"Cloud Computing, Docker, Linux, Networking, Python",Intermediate,Cloud Migration,High,Cloud Security
+Cybersecurity Analyst,Cybersecurity,1,"Cybersecurity, Networking, Risk Analysis, SIEM",Intermediate,Security Operations,High,Generative AI
+Data Scientist,Data & AI,5,"Machine Learning, Pandas, Python, Scikit-learn",Intermediate,Predictive Analytics,Medium,Large Language Models
+Business Analyst,Consulting,12,"Communication, Excel, Process Mapping, SQL",Intermediate,Digital Transformation,High,AI Business Strategy
+Cybersecurity Analyst,Cybersecurity,3,"Linux, Networking, Python, SIEM",Beginner,Security Operations,High,Generative AI
+Technology Consultant,Consulting,11,"Business Analysis, Data Analytics, Project Management",Intermediate,Technology Consulting,Medium,Cloud Security
+DevOps Engineer,Technology,0,"CI/CD, Cloud Computing, Docker, Kubernetes",Intermediate,DevOps,Medium,Cloud Security
+Cybersecurity Analyst,Cybersecurity,10,"Cybersecurity, Python, Risk Analysis",Intermediate,Risk Management,High,Zero Trust Security
+DevOps Engineer,Technology,1,"CI/CD, Cloud Computing, Git, Kubernetes, Linux",Intermediate,CI/CD,High,MLOps
+Business Analyst,Consulting,12,"Communication, Excel, Power BI, Process Mapping, Requirements Analysis",Intermediate,Digital Transformation,Medium,Data Analytics
+Data Scientist,Data & AI,3,"Python, SQL, Scikit-learn",Intermediate,Predictive Analytics,High,Large Language Models
+DevOps Engineer,Technology,10,"Cloud Computing, Git, Kubernetes",Advanced,DevOps,High,AI Engineering
+Technology Consultant,Consulting,10,"Business Analysis, Data Analytics, Project Management, SQL",Intermediate,Technology Consulting,High,Generative AI
+Cloud Engineer,Cloud,6,"Docker, Kubernetes, Linux, Networking",Intermediate,Cloud Infrastructure,Medium,MLOps
+Cybersecurity Analyst,Cybersecurity,10,"Cybersecurity, Linux, Python, Risk Analysis, SIEM",Beginner,Risk Management,High,AI Security
+UX Designer,Design,9,"Communication, Figma, Prototyping, UX Design, User Research",Intermediate,Product Design,High,Generative AI
+Data Analyst,Data & Analytics,5,"Data Visualisation, Excel, Statistics",Intermediate,Data Analytics,Medium,Cloud Computing
+Data Analyst,Data & Analytics,8,"Data Visualisation, Excel, Power BI, SQL, Statistics",Beginner,Data Analytics,High,Cloud Computing
+Business Analyst,Consulting,1,"Communication, Process Mapping, SQL",Intermediate,Business Analysis,High,Generative AI
+Data Analyst,Data & Analytics,1,"Excel, Power BI, Python, SQL, Statistics",Beginner,Data Analytics,High,Cloud Computing
+Data Scientist,Data & AI,9,"Machine Learning, Pandas, Scikit-learn, Statistics",Intermediate,Predictive Analytics,High,Generative AI
+Cloud Engineer,Cloud,0,"Kubernetes, Linux, Networking",Advanced,Cloud Infrastructure,High,Generative AI
+Data Scientist,Data & AI,11,"Machine Learning, Python, SQL, Scikit-learn, Statistics",Intermediate,Predictive Analytics,Medium,Large Language Models
+Data Analyst,Data & Analytics,4,"Data Visualisation, Excel, Python, SQL, Statistics",Advanced,Data Analytics,High,Generative AI
+DevOps Engineer,Technology,2,"Cloud Computing, Git, Kubernetes, Linux",Beginner,CI/CD,High,AI Engineering
+Technology Consultant,Consulting,6,"Business Analysis, Cloud Computing, Communication",Advanced,Cloud Strategy,High,AI Strategy
+Cybersecurity Analyst,Cybersecurity,0,"Networking, Python, SIEM",Advanced,Security Operations,High,Generative AI
+UX Designer,Design,12,"Figma, Prototyping, UX Design, User Research",Intermediate,Product Design,High,AI-Assisted Design
+Software Engineer,Technology,2,"Cloud Computing, Git, Java, SQL",Intermediate,Cloud Application,Medium,AI Engineering
+Cybersecurity Analyst,Cybersecurity,0,"Cybersecurity, Networking, Python, Risk Analysis, SIEM",Intermediate,Risk Management,High,Generative AI
+Cloud Engineer,Cloud,10,"Docker, Kubernetes, Linux, Networking, Python",Intermediate,Cloud Migration,High,MLOps
+Technology Consultant,Consulting,11,"Business Analysis, Cloud Computing, Communication",Intermediate,Cloud Strategy,High,Generative AI
+Data Analyst,Data & Analytics,11,"Excel, SQL, Statistics",Beginner,Business Intelligence,Medium,Machine Learning
+DevOps Engineer,Technology,10,"CI/CD, Cloud Computing, Docker, Git, Linux",Intermediate,DevOps,High,Cloud Security
+Technology Consultant,Consulting,11,"Business Analysis, Cloud Computing, Data Analytics, SQL",Intermediate,Technology Consulting,High,AI Strategy
+Data Analyst,Data & Analytics,5,"Data Visualisation, Power BI, SQL",Intermediate,Business Intelligence,High,Data Engineering
+Data Analyst,Data & Analytics,5,"Data Visualisation, Excel, Power BI, SQL, Statistics",Intermediate,Business Intelligence,High,Machine Learning
+UX Designer,Design,6,"Figma, Prototyping, UX Design",Advanced,Product Design,High,AI Product Design
+Software Engineer,Technology,9,"APIs, Cloud Computing, Python, SQL",Beginner,Application Development,Medium,Cloud Computing
+Software Engineer,Technology,1,"Git, Java, Python, SQL",Intermediate,Application Development,Medium,Generative AI
+AI Engineer,Data & AI,0,"Cloud Computing, Machine Learning, TensorFlow",Intermediate,Generative AI,High,MLOps
+DevOps Engineer,Technology,2,"Cloud Computing, Docker, Git, Kubernetes, Linux",Beginner,CI/CD,Medium,AI Engineering
+Business Analyst,Consulting,11,"Excel, Power BI, SQL",Beginner,Digital Transformation,Medium,Data Analytics
+Software Engineer,Technology,2,"Cloud Computing, Git, Java, Python, SQL",Intermediate,Cloud Application,High,Cloud Computing
+DevOps Engineer,Technology,8,"Cloud Computing, Docker, Git, Kubernetes, Linux",Intermediate,DevOps,High,AI Cloud
+Technology Consultant,Consulting,0,"Business Analysis, Cloud Computing, Communication, Data Analytics, SQL",Intermediate,Cloud Strategy,High,AI Business Strategy
+Data Analyst,Data & Analytics,12,"Data Visualisation, Excel, Power BI, Statistics",Intermediate,Data Analytics,High,Machine Learning
+Cybersecurity Analyst,Cybersecurity,11,"Networking, Python, SIEM",Intermediate,Security Operations,High,Cloud Security
+UX Designer,Design,10,"Communication, Prototyping, UI Design, UX Design, User Research",Beginner,UX Design,High,Responsible AI
+Software Engineer,Technology,9,"Cloud Computing, Git, Python",Intermediate,Cloud Application,High,AI Engineering
+Business Analyst,Consulting,6,"Excel, Power BI, Process Mapping, Requirements Analysis",Beginner,Business Analysis,High,Data Analytics
+Cybersecurity Analyst,Cybersecurity,5,"Cybersecurity, Linux, Networking, Python, SIEM",Beginner,Security Operations,High,Cloud Security
+Cybersecurity Analyst,Cybersecurity,7,"Cybersecurity, Python, Risk Analysis, SIEM",Beginner,Risk Management,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,1,"Cybersecurity, Networking, SIEM",Intermediate,Risk Management,High,Cloud Security
+Cybersecurity Analyst,Cybersecurity,3,"Cybersecurity, Linux, Python, Risk Analysis, SIEM",Beginner,Security Operations,High,Zero Trust Security
+Data Analyst,Data & Analytics,1,"Data Visualisation, Excel, Power BI, Python, Statistics",Advanced,Data Analytics,High,Machine Learning
+Data Scientist,Data & AI,3,"Machine Learning, Pandas, SQL, Scikit-learn",Intermediate,Predictive Analytics,Medium,Generative AI
+AI Engineer,Data & AI,6,"APIs, Machine Learning, PyTorch, Python, TensorFlow",Intermediate,Artificial Intelligence,High,Generative AI
+UX Designer,Design,0,"Figma, Prototyping, UI Design, UX Design, User Research",Beginner,Product Design,Medium,Responsible AI
+UX Designer,Design,4,"Communication, UI Design, UX Design",Intermediate,UX Design,Medium,AI Product Design
+Cybersecurity Analyst,Cybersecurity,3,"Cybersecurity, Linux, Python, SIEM",Beginner,Security Operations,High,AI Security
+Data Scientist,Data & AI,4,"Machine Learning, Python, SQL",Advanced,Predictive Analytics,High,Generative AI
+Business Analyst,Consulting,10,"Communication, Excel, Power BI, Process Mapping, SQL",Intermediate,Digital Transformation,High,Data Analytics
+Software Engineer,Technology,10,"Cloud Computing, Java, SQL",Beginner,Application Development,High,Prompt Engineering
+Cybersecurity Analyst,Cybersecurity,10,"Cybersecurity, Networking, Python, Risk Analysis, SIEM",Intermediate,Security Operations,Medium,Cloud Security
+AI Engineer,Data & AI,3,"Cloud Computing, Machine Learning, PyTorch, Python, TensorFlow",Beginner,Artificial Intelligence,Medium,Large Language Models
+Data Scientist,Data & AI,3,"Machine Learning, Pandas, Python, SQL, Statistics",Beginner,Predictive Analytics,Medium,MLOps
+Data Analyst,Data & Analytics,2,"Excel, Python, Statistics",Advanced,Business Intelligence,High,Generative AI
+Software Engineer,Technology,9,"Cloud Computing, Git, Python",Beginner,Application Development,High,AI Engineering
+Cloud Engineer,Cloud,12,"Cloud Computing, Linux, Networking",Intermediate,Cloud Infrastructure,High,Generative AI
+Data Analyst,Data & Analytics,3,"Data Visualisation, Python, Statistics",Advanced,Business Intelligence,High,Cloud Computing
+Data Scientist,Data & AI,3,"Machine Learning, Pandas, Python",Beginner,Predictive Analytics,High,AI Engineering
+Data Analyst,Data & Analytics,8,"Data Visualisation, Excel, SQL, Statistics",Beginner,Business Intelligence,High,Data Engineering
+Cybersecurity Analyst,Cybersecurity,3,"Cybersecurity, Linux, Python, Risk Analysis, SIEM",Beginner,Risk Management,High,AI Security
+UX Designer,Design,5,"Figma, Prototyping, UX Design",Intermediate,UX Design,Medium,AI Product Design
+UX Designer,Design,2,"Communication, Figma, Prototyping, UI Design, User Research",Intermediate,UX Design,High,Responsible AI
+Business Analyst,Consulting,4,"Communication, Excel, Power BI, Process Mapping, SQL",Intermediate,Digital Transformation,Medium,Automation
+Data Analyst,Data & Analytics,1,"Excel, Power BI, Python, SQL, Statistics",Advanced,Data Analytics,Medium,Data Engineering
+Business Analyst,Consulting,7,"Communication, Excel, Power BI, Requirements Analysis",Advanced,Business Analysis,Medium,Automation
+Technology Consultant,Consulting,7,"Cloud Computing, Communication, Data Analytics, Project Management, SQL",Intermediate,Cloud Strategy,High,Generative AI
+Cloud Engineer,Cloud,5,"Cloud Computing, Linux, Networking",Intermediate,Cloud Infrastructure,High,AI Cloud
+Business Analyst,Consulting,5,"Power BI, Requirements Analysis, SQL",Advanced,Digital Transformation,High,AI Business Strategy
+Cloud Engineer,Cloud,0,"Cloud Computing, Docker, Kubernetes, Linux, Python",Intermediate,Cloud Migration,High,AI Cloud
+Data Analyst,Data & Analytics,10,"Excel, Power BI, Python, SQL, Statistics",Intermediate,Data Analytics,High,Machine Learning
+Software Engineer,Technology,9,"Cloud Computing, Git, Java, SQL",Beginner,Cloud Application,Medium,Prompt Engineering
+Business Analyst,Consulting,7,"Communication, Excel, Power BI, Process Mapping, Requirements Analysis",Beginner,Business Analysis,High,AI Business Strategy
+Software Engineer,Technology,6,"APIs, Cloud Computing, Git, SQL",Intermediate,Application Development,Medium,AI Engineering
+Cybersecurity Analyst,Cybersecurity,1,"Cybersecurity, Networking, Python, Risk Analysis, SIEM",Beginner,Security Operations,High,Zero Trust Security
+AI Engineer,Data & AI,5,"APIs, Cloud Computing, PyTorch, Python, TensorFlow",Advanced,Generative AI,High,MLOps
+Data Analyst,Data & Analytics,1,"Data Visualisation, Power BI, Statistics",Beginner,Business Intelligence,High,Machine Learning
+Data Analyst,Data & Analytics,3,"Data Visualisation, Excel, Power BI, SQL, Statistics",Intermediate,Data Analytics,High,Data Engineering
+Data Analyst,Data & Analytics,9,"Data Visualisation, Power BI, Python, SQL, Statistics",Intermediate,Business Intelligence,High,Data Engineering
+Cybersecurity Analyst,Cybersecurity,6,"Linux, Networking, Python, Risk Analysis, SIEM",Advanced,Security Operations,High,Zero Trust Security
+Technology Consultant,Consulting,1,"Cloud Computing, Communication, Data Analytics, Project Management, SQL",Beginner,Technology Consulting,Medium,Generative AI
+Data Analyst,Data & Analytics,11,"Data Visualisation, Excel, Statistics",Advanced,Business Intelligence,Medium,Generative AI
+Business Analyst,Consulting,4,"Excel, Power BI, Process Mapping, Requirements Analysis",Intermediate,Digital Transformation,High,AI Business Strategy
+UX Designer,Design,9,"Prototyping, UI Design, User Research",Beginner,UX Design,High,AI Product Design
+Technology Consultant,Consulting,12,"Cloud Computing, Communication, Project Management",Intermediate,Cloud Strategy,High,Generative AI
+Cybersecurity Analyst,Cybersecurity,9,"Cybersecurity, Linux, Python, Risk Analysis",Intermediate,Risk Management,High,Zero Trust Security
+Cybersecurity Analyst,Cybersecurity,12,"Cybersecurity, Linux, Networking, SIEM",Intermediate,Risk Management,High,Zero Trust Security
+DevOps Engineer,Technology,9,"CI/CD, Cloud Computing, Docker, Kubernetes, Linux",Intermediate,CI/CD,Medium,AI Cloud
+Software Engineer,Technology,9,"Cloud Computing, Git, Java, Python, SQL",Beginner,Application Development,Medium,Generative AI
+Cloud Engineer,Cloud,6,"Cloud Computing, Kubernetes, Linux, Networking",Intermediate,Cloud Migration,High,AI Cloud
+Data Scientist,Data & AI,11,"SQL, Scikit-learn, Statistics",Intermediate,Predictive Analytics,High,AI Engineering
+UX Designer,Design,7,"Communication, UX Design, User Research",Beginner,UX Design,High,Responsible AI
+Data Scientist,Data & AI,10,"Machine Learning, Pandas, Python",Advanced,Machine Learning,High,AI Engineering
+DevOps Engineer,Technology,7,"Cloud Computing, Docker, Git",Advanced,CI/CD,High,AI Cloud
+Data Scientist,Data & AI,1,"Machine Learning, Python, Statistics",Beginner,Machine Learning,Medium,MLOps
+Cybersecurity Analyst,Cybersecurity,2,"Cybersecurity, Linux, Python",Advanced,Risk Management,High,Cloud Security
+Business Analyst,Consulting,6,"Power BI, Process Mapping, Requirements Analysis, SQL",Intermediate,Digital Transformation,High,AI Business Strategy
+Data Analyst,Data & Analytics,11,"Data Visualisation, Excel, Power BI, Python, Statistics",Beginner,Business Intelligence,High,Cloud Computing
+Business Analyst,Consulting,1,"Communication, Excel, Power BI, Requirements Analysis, SQL",Intermediate,Business Analysis,High,AI Business Strategy
+Cloud Engineer,Cloud,6,"Cloud Computing, Docker, Kubernetes, Linux, Python",Beginner,Cloud Infrastructure,High,Generative AI
+Business Analyst,Consulting,0,"Communication, Excel, Power BI, Process Mapping",Intermediate,Digital Transformation,Medium,Automation
+Business Analyst,Consulting,5,"Communication, Excel, Power BI, Process Mapping, Requirements Analysis",Intermediate,Digital Transformation,High,AI Business Strategy
+Technology Consultant,Consulting,6,"Business Analysis, Communication, Data Analytics, Project Management",Intermediate,Technology Consulting,High,Generative AI
+Data Analyst,Data & Analytics,10,"Data Visualisation, Python, SQL",Intermediate,Data Analytics,Medium,Machine Learning
+Cybersecurity Analyst,Cybersecurity,6,"Networking, Python, Risk Analysis",Beginner,Risk Management,High,Generative AI
+AI Engineer,Data & AI,6,"APIs, Cloud Computing, Machine Learning, PyTorch, Python",Intermediate,Generative AI,High,MLOps
+DevOps Engineer,Technology,10,"Cloud Computing, Git, Linux",Beginner,DevOps,High,AI Cloud
+Business Analyst,Consulting,2,"Communication, Excel, Process Mapping, Requirements Analysis, SQL",Advanced,Digital Transformation,High,Automation
+Data Scientist,Data & AI,6,"Pandas, Python, SQL, Statistics",Beginner,Predictive Analytics,High,Large Language Models
+Cybersecurity Analyst,Cybersecurity,8,"Cybersecurity, Linux, Networking",Beginner,Risk Management,High,Cloud Security
+Software Engineer,Technology,9,"APIs, Cloud Computing, Git, Python, SQL",Advanced,Cloud Application,High,AI Engineering
+Cloud Engineer,Cloud,4,"Docker, Linux, Python",Intermediate,Cloud Infrastructure,High,AI Cloud
+Data Scientist,Data & AI,10,"Pandas, Python, Scikit-learn",Beginner,Predictive Analytics,High,MLOps
+Cybersecurity Analyst,Cybersecurity,4,"Cybersecurity, Python, SIEM",Advanced,Security Operations,Medium,AI Security
+AI Engineer,Data & AI,12,"Cloud Computing, PyTorch, Python",Advanced,Artificial Intelligence,High,AI Agents
+DevOps Engineer,Technology,5,"CI/CD, Cloud Computing, Docker, Git, Linux",Advanced,DevOps,High,AI Cloud
+Business Analyst,Consulting,7,"Communication, Excel, Process Mapping, Requirements Analysis, SQL",Advanced,Business Analysis,High,Generative AI
