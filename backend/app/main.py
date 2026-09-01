@@ -224,7 +224,7 @@ def health():
     return {"status": "ok", "model_loaded": model is not None}
 
 
-@app.post("/predict")
+@app.post("/svc/api/predict")
 def predict(p: EmployeeInput, db: Session = Depends(get_db)):
     row, predicted, gaps, readiness, recs = save_prediction(p, db)
     return {
@@ -236,13 +236,13 @@ def predict(p: EmployeeInput, db: Session = Depends(get_db)):
     }
 
 
-@app.get("/employees")
+@app.get("/svc/api/employees")
 def employees(db: Session = Depends(get_db)):
     rows = db.query(EmployeePrediction).order_by(EmployeePrediction.id.desc()).all()
     return [serialize_employee(row) for row in rows]
 
 
-@app.get("/employees/{employee_id}")
+@app.get("/svc/api/employees/{employee_id}")
 def get_employee(employee_id: str, db: Session = Depends(get_db)):
     row = db.query(EmployeePrediction).filter(EmployeePrediction.employee_id == employee_id).first()
     if row is None:
@@ -250,7 +250,7 @@ def get_employee(employee_id: str, db: Session = Depends(get_db)):
     return serialize_employee(row)
 
 
-@app.put("/employees/{employee_id}")
+@app.put("/svc/api/employees/{employee_id}")
 def update_employee(employee_id: str, p: EmployeeInput, db: Session = Depends(get_db)):
     if employee_id != p.employee_id:
         raise HTTPException(400, "Employee ID cannot be changed during edit.")
@@ -267,7 +267,7 @@ def update_employee(employee_id: str, p: EmployeeInput, db: Session = Depends(ge
     }
 
 
-@app.delete("/employees/{employee_id}")
+@app.delete("/svc/api/employees/{employee_id}")
 def delete_employee(employee_id: str, db: Session = Depends(get_db)):
     row = db.query(EmployeePrediction).filter(EmployeePrediction.employee_id == employee_id).first()
     if row is None:
@@ -277,7 +277,7 @@ def delete_employee(employee_id: str, db: Session = Depends(get_db)):
     return {"message": "Employee deleted", "employee_id": employee_id}
 
 
-@app.get("/hr-dashboard")
+@app.get("/svc/api/hr-dashboard")
 def hr_dashboard(db: Session = Depends(get_db)):
     rows = db.query(EmployeePrediction).order_by(EmployeePrediction.id.desc()).all()
     total = len(rows)
